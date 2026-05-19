@@ -12,6 +12,15 @@ __pycache__/
 # OS
 .DS_Store
 
+# Editor / tool state
+.claude/
+.vscode/
+.idea/
+
+# Generated documents
+docs/REPORT.pdf
+*.pdf
+
 # Large generated artifacts — regenerate via scripts/
 prepared_data/images/
 # Keep prepared_data/products_indexed.parquet committed; it's small (<1 MB)
