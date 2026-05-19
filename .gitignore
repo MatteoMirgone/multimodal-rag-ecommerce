@@ -1,0 +1,18 @@
+# Secrets — never commit
+.env
+.env.local
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Large generated artifacts — regenerate via scripts/
+prepared_data/images/
+# Keep prepared_data/products_indexed.parquet committed; it's small (<1 MB)
+# Keep chroma_db/ committed; it's the prebuilt index (~24 MB)

@@ -1,0 +1,24 @@
+,recall@1,recall@1,recall@5,recall@5,recall@10,recall@10
+,mean,count,mean,count,mean,count
+category,,,,,,
+"Arts, Crafts & Sewing",1.0,10,1.0,10,1.0,10
+Automotive,1.0,2,1.0,2,1.0,2
+Baby Products,1.0,14,1.0,14,1.0,14
+Beauty & Personal Care,1.0,4,1.0,4,1.0,4
+"Clothing, Shoes & Jewelry",0.969,32,1.0,32,1.0,32
+Electronics,1.0,1,1.0,1,1.0,1
+Grocery & Gourmet Food,1.0,2,1.0,2,1.0,2
+Health & Household,1.0,6,1.0,6,1.0,6
+Hobbies,1.0,5,1.0,5,1.0,5
+Home & Kitchen,1.0,30,1.0,30,1.0,30
+Industrial & Scientific,1.0,8,1.0,8,1.0,8
+Office Products,1.0,5,1.0,5,1.0,5
+"Patio, Lawn & Garden",1.0,4,1.0,4,1.0,4
+Pet Supplies,1.0,2,1.0,2,1.0,2
+Remote & App Controlled Vehicle Parts,0.889,9,1.0,9,1.0,9
+Remote & App Controlled Vehicles & Parts,1.0,5,1.0,5,1.0,5
+Sports & Outdoors,1.0,19,1.0,19,1.0,19
+Tools & Home Improvement,1.0,6,1.0,6,1.0,6
+Toys & Games,0.986,291,0.997,291,0.997,291
+Unknown,0.955,44,1.0,44,1.0,44
+Video Games,1.0,1,1.0,1,1.0,1

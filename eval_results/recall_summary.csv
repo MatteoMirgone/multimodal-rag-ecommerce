@@ -1,0 +1,6 @@
+query_type,recall@1,recall@5,recall@10
+text->text (self),1.0,1.0,1.0
+image->image (self),1.0,1.0,1.0
+partial-text->text,0.984,0.998,0.998
+image->text,0.568,0.816,0.894
+text->image,0.556,0.81,0.868

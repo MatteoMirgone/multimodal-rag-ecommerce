@@ -1,0 +1,2501 @@
+gold_id,query_type,recall@1,recall@5,recall@10
+prod_000214,text->text (self),1,1,1
+prod_001528,text->text (self),1,1,1
+prod_000790,text->text (self),1,1,1
+prod_001184,text->text (self),1,1,1
+prod_001772,text->text (self),1,1,1
+prod_000488,text->text (self),1,1,1
+prod_000936,text->text (self),1,1,1
+prod_001598,text->text (self),1,1,1
+prod_001296,text->text (self),1,1,1
+prod_001119,text->text (self),1,1,1
+prod_001290,text->text (self),1,1,1
+prod_000309,text->text (self),1,1,1
+prod_001390,text->text (self),1,1,1
+prod_001987,text->text (self),1,1,1
+prod_000848,text->text (self),1,1,1
+prod_001536,text->text (self),1,1,1
+prod_001724,text->text (self),1,1,1
+prod_000879,text->text (self),1,1,1
+prod_000370,text->text (self),1,1,1
+prod_000056,text->text (self),1,1,1
+prod_000981,text->text (self),1,1,1
+prod_001270,text->text (self),1,1,1
+prod_000548,text->text (self),1,1,1
+prod_001618,text->text (self),1,1,1
+prod_001791,text->text (self),1,1,1
+prod_000926,text->text (self),1,1,1
+prod_001282,text->text (self),1,1,1
+prod_000829,text->text (self),1,1,1
+prod_000675,text->text (self),1,1,1
+prod_000070,text->text (self),1,1,1
+prod_000574,text->text (self),1,1,1
+prod_000065,text->text (self),1,1,1
+prod_001385,text->text (self),1,1,1
+prod_000919,text->text (self),1,1,1
+prod_001251,text->text (self),1,1,1
+prod_000111,text->text (self),1,1,1
+prod_001139,text->text (self),1,1,1
+prod_001243,text->text (self),1,1,1
+prod_000760,text->text (self),1,1,1
+prod_001862,text->text (self),1,1,1
+prod_001562,text->text (self),1,1,1
+prod_000439,text->text (self),1,1,1
+prod_000124,text->text (self),1,1,1
+prod_001937,text->text (self),1,1,1
+prod_000785,text->text (self),1,1,1
+prod_001293,text->text (self),1,1,1
+prod_001244,text->text (self),1,1,1
+prod_000580,text->text (self),1,1,1
+prod_000385,text->text (self),1,1,1
+prod_000751,text->text (self),1,1,1
+prod_001446,text->text (self),1,1,1
+prod_000511,text->text (self),1,1,1
+prod_000029,text->text (self),1,1,1
+prod_000128,text->text (self),1,1,1
+prod_001593,text->text (self),1,1,1
+prod_000971,text->text (self),1,1,1
+prod_001871,text->text (self),1,1,1
+prod_000824,text->text (self),1,1,1
+prod_000429,text->text (self),1,1,1
+prod_000239,text->text (self),1,1,1
+prod_001820,text->text (self),1,1,1
+prod_001395,text->text (self),1,1,1
+prod_000822,text->text (self),1,1,1
+prod_000955,text->text (self),1,1,1
+prod_001338,text->text (self),1,1,1
+prod_000364,text->text (self),1,1,1
+prod_000417,text->text (self),1,1,1
+prod_000369,text->text (self),1,1,1
+prod_001628,text->text (self),1,1,1
+prod_001444,text->text (self),1,1,1
+prod_000983,text->text (self),1,1,1
+prod_000069,text->text (self),1,1,1
+prod_000941,text->text (self),1,1,1
+prod_001570,text->text (self),1,1,1
+prod_001248,text->text (self),1,1,1
+prod_001397,text->text (self),1,1,1
+prod_000841,text->text (self),1,1,1
+prod_000483,text->text (self),1,1,1
+prod_001315,text->text (self),1,1,1
+prod_000683,text->text (self),1,1,1
+prod_000750,text->text (self),1,1,1
+prod_001594,text->text (self),1,1,1
+prod_000536,text->text (self),1,1,1
+prod_000594,text->text (self),1,1,1
+prod_001348,text->text (self),1,1,1
+prod_000886,text->text (self),1,1,1
+prod_001145,text->text (self),1,1,1
+prod_000099,text->text (self),1,1,1
+prod_001919,text->text (self),1,1,1
+prod_000256,text->text (self),1,1,1
+prod_000292,text->text (self),1,1,1
+prod_001691,text->text (self),1,1,1
+prod_001673,text->text (self),1,1,1
+prod_001648,text->text (self),1,1,1
+prod_001939,text->text (self),1,1,1
+prod_000357,text->text (self),1,1,1
+prod_001743,text->text (self),1,1,1
+prod_000656,text->text (self),1,1,1
+prod_000327,text->text (self),1,1,1
+prod_001033,text->text (self),1,1,1
+prod_001738,text->text (self),1,1,1
+prod_001635,text->text (self),1,1,1
+prod_000597,text->text (self),1,1,1
+prod_001821,text->text (self),1,1,1
+prod_001128,text->text (self),1,1,1
+prod_000717,text->text (self),1,1,1
+prod_001799,text->text (self),1,1,1
+prod_000968,text->text (self),1,1,1
+prod_000823,text->text (self),1,1,1
+prod_001920,text->text (self),1,1,1
+prod_000984,text->text (self),1,1,1
+prod_001927,text->text (self),1,1,1
+prod_001664,text->text (self),1,1,1
+prod_000436,text->text (self),1,1,1
+prod_000945,text->text (self),1,1,1
+prod_001435,text->text (self),1,1,1
+prod_001089,text->text (self),1,1,1
+prod_001046,text->text (self),1,1,1
+prod_000425,text->text (self),1,1,1
+prod_000456,text->text (self),1,1,1
+prod_001823,text->text (self),1,1,1
+prod_001432,text->text (self),1,1,1
+prod_000547,text->text (self),1,1,1
+prod_001829,text->text (self),1,1,1
+prod_000797,text->text (self),1,1,1
+prod_000624,text->text (self),1,1,1
+prod_000213,text->text (self),1,1,1
+prod_001501,text->text (self),1,1,1
+prod_000482,text->text (self),1,1,1
+prod_000345,text->text (self),1,1,1
+prod_001412,text->text (self),1,1,1
+prod_001443,text->text (self),1,1,1
+prod_000308,text->text (self),1,1,1
+prod_000423,text->text (self),1,1,1
+prod_001514,text->text (self),1,1,1
+prod_001666,text->text (self),1,1,1
+prod_000905,text->text (self),1,1,1
+prod_001782,text->text (self),1,1,1
+prod_001093,text->text (self),1,1,1
+prod_001225,text->text (self),1,1,1
+prod_001258,text->text (self),1,1,1
+prod_000233,text->text (self),1,1,1
+prod_000120,text->text (self),1,1,1
+prod_001349,text->text (self),1,1,1
+prod_000928,text->text (self),1,1,1
+prod_000679,text->text (self),1,1,1
+prod_001333,text->text (self),1,1,1
+prod_000135,text->text (self),1,1,1
+prod_000953,text->text (self),1,1,1
+prod_000396,text->text (self),1,1,1
+prod_000432,text->text (self),1,1,1
+prod_000419,text->text (self),1,1,1
+prod_000235,text->text (self),1,1,1
+prod_001291,text->text (self),1,1,1
+prod_000109,text->text (self),1,1,1
+prod_000300,text->text (self),1,1,1
+prod_000486,text->text (self),1,1,1
+prod_000212,text->text (self),1,1,1
+prod_001731,text->text (self),1,1,1
+prod_000772,text->text (self),1,1,1
+prod_001558,text->text (self),1,1,1
+prod_001384,text->text (self),1,1,1
+prod_000709,text->text (self),1,1,1
+prod_001753,text->text (self),1,1,1
+prod_000277,text->text (self),1,1,1
+prod_000769,text->text (self),1,1,1
+prod_001847,text->text (self),1,1,1
+prod_000860,text->text (self),1,1,1
+prod_000355,text->text (self),1,1,1
+prod_000253,text->text (self),1,1,1
+prod_001554,text->text (self),1,1,1
+prod_001640,text->text (self),1,1,1
+prod_001778,text->text (self),1,1,1
+prod_001795,text->text (self),1,1,1
+prod_000909,text->text (self),1,1,1
+prod_000787,text->text (self),1,1,1
+prod_000498,text->text (self),1,1,1
+prod_001990,text->text (self),1,1,1
+prod_000272,text->text (self),1,1,1
+prod_000414,text->text (self),1,1,1
+prod_000817,text->text (self),1,1,1
+prod_001272,text->text (self),1,1,1
+prod_000533,text->text (self),1,1,1
+prod_000049,text->text (self),1,1,1
+prod_000595,text->text (self),1,1,1
+prod_000249,text->text (self),1,1,1
+prod_000258,text->text (self),1,1,1
+prod_001555,text->text (self),1,1,1
+prod_000947,text->text (self),1,1,1
+prod_001108,text->text (self),1,1,1
+prod_000377,text->text (self),1,1,1
+prod_000319,text->text (self),1,1,1
+prod_000641,text->text (self),1,1,1
+prod_001537,text->text (self),1,1,1
+prod_001164,text->text (self),1,1,1
+prod_001121,text->text (self),1,1,1
+prod_001190,text->text (self),1,1,1
+prod_001278,text->text (self),1,1,1
+prod_000023,text->text (self),1,1,1
+prod_000353,text->text (self),1,1,1
+prod_000063,text->text (self),1,1,1
+prod_001117,text->text (self),1,1,1
+prod_000189,text->text (self),1,1,1
+prod_000698,text->text (self),1,1,1
+prod_000241,text->text (self),1,1,1
+prod_001995,text->text (self),1,1,1
+prod_001811,text->text (self),1,1,1
+prod_001566,text->text (self),1,1,1
+prod_000779,text->text (self),1,1,1
+prod_001607,text->text (self),1,1,1
+prod_000197,text->text (self),1,1,1
+prod_001687,text->text (self),1,1,1
+prod_001004,text->text (self),1,1,1
+prod_001005,text->text (self),1,1,1
+prod_001814,text->text (self),1,1,1
+prod_001831,text->text (self),1,1,1
+prod_000100,text->text (self),1,1,1
+prod_001884,text->text (self),1,1,1
+prod_001934,text->text (self),1,1,1
+prod_001938,text->text (self),1,1,1
+prod_000222,text->text (self),1,1,1
+prod_000920,text->text (self),1,1,1
+prod_001127,text->text (self),1,1,1
+prod_001612,text->text (self),1,1,1
+prod_000622,text->text (self),1,1,1
+prod_000571,text->text (self),1,1,1
+prod_000764,text->text (self),1,1,1
+prod_000818,text->text (self),1,1,1
+prod_000912,text->text (self),1,1,1
+prod_001345,text->text (self),1,1,1
+prod_000908,text->text (self),1,1,1
+prod_000453,text->text (self),1,1,1
+prod_001064,text->text (self),1,1,1
+prod_001844,text->text (self),1,1,1
+prod_000115,text->text (self),1,1,1
+prod_000618,text->text (self),1,1,1
+prod_001209,text->text (self),1,1,1
+prod_000474,text->text (self),1,1,1
+prod_001636,text->text (self),1,1,1
+prod_001313,text->text (self),1,1,1
+prod_000301,text->text (self),1,1,1
+prod_000283,text->text (self),1,1,1
+prod_001171,text->text (self),1,1,1
+prod_000386,text->text (self),1,1,1
+prod_000634,text->text (self),1,1,1
+prod_000588,text->text (self),1,1,1
+prod_001360,text->text (self),1,1,1
+prod_000655,text->text (self),1,1,1
+prod_000174,text->text (self),1,1,1
+prod_001991,text->text (self),1,1,1
+prod_001705,text->text (self),1,1,1
+prod_001274,text->text (self),1,1,1
+prod_001264,text->text (self),1,1,1
+prod_001326,text->text (self),1,1,1
+prod_001676,text->text (self),1,1,1
+prod_000632,text->text (self),1,1,1
+prod_000078,text->text (self),1,1,1
+prod_001992,text->text (self),1,1,1
+prod_000032,text->text (self),1,1,1
+prod_000867,text->text (self),1,1,1
+prod_000310,text->text (self),1,1,1
+prod_000712,text->text (self),1,1,1
+prod_000347,text->text (self),1,1,1
+prod_000164,text->text (self),1,1,1
+prod_000205,text->text (self),1,1,1
+prod_000710,text->text (self),1,1,1
+prod_001367,text->text (self),1,1,1
+prod_000538,text->text (self),1,1,1
+prod_000371,text->text (self),1,1,1
+prod_001965,text->text (self),1,1,1
+prod_000435,text->text (self),1,1,1
+prod_001710,text->text (self),1,1,1
+prod_001945,text->text (self),1,1,1
+prod_001783,text->text (self),1,1,1
+prod_000220,text->text (self),1,1,1
+prod_001930,text->text (self),1,1,1
+prod_000989,text->text (self),1,1,1
+prod_000606,text->text (self),1,1,1
+prod_001394,text->text (self),1,1,1
+prod_000059,text->text (self),1,1,1
+prod_001063,text->text (self),1,1,1
+prod_000530,text->text (self),1,1,1
+prod_000073,text->text (self),1,1,1
+prod_000163,text->text (self),1,1,1
+prod_001977,text->text (self),1,1,1
+prod_001135,text->text (self),1,1,1
+prod_001012,text->text (self),1,1,1
+prod_001417,text->text (self),1,1,1
+prod_000587,text->text (self),1,1,1
+prod_001652,text->text (self),1,1,1
+prod_000045,text->text (self),1,1,1
+prod_000949,text->text (self),1,1,1
+prod_001366,text->text (self),1,1,1
+prod_001234,text->text (self),1,1,1
+prod_000076,text->text (self),1,1,1
+prod_001916,text->text (self),1,1,1
+prod_001414,text->text (self),1,1,1
+prod_001283,text->text (self),1,1,1
+prod_001979,text->text (self),1,1,1
+prod_000441,text->text (self),1,1,1
+prod_000518,text->text (self),1,1,1
+prod_000814,text->text (self),1,1,1
+prod_000030,text->text (self),1,1,1
+prod_001091,text->text (self),1,1,1
+prod_001513,text->text (self),1,1,1
+prod_000782,text->text (self),1,1,1
+prod_001308,text->text (self),1,1,1
+prod_001230,text->text (self),1,1,1
+prod_001474,text->text (self),1,1,1
+prod_001592,text->text (self),1,1,1
+prod_001567,text->text (self),1,1,1
+prod_000356,text->text (self),1,1,1
+prod_001573,text->text (self),1,1,1
+prod_000044,text->text (self),1,1,1
+prod_001485,text->text (self),1,1,1
+prod_000169,text->text (self),1,1,1
+prod_000306,text->text (self),1,1,1
+prod_001488,text->text (self),1,1,1
+prod_001281,text->text (self),1,1,1
+prod_001924,text->text (self),1,1,1
+prod_000603,text->text (self),1,1,1
+prod_001319,text->text (self),1,1,1
+prod_001100,text->text (self),1,1,1
+prod_000987,text->text (self),1,1,1
+prod_001311,text->text (self),1,1,1
+prod_001442,text->text (self),1,1,1
+prod_001246,text->text (self),1,1,1
+prod_001415,text->text (self),1,1,1
+prod_001074,text->text (self),1,1,1
+prod_000738,text->text (self),1,1,1
+prod_000186,text->text (self),1,1,1
+prod_000846,text->text (self),1,1,1
+prod_000910,text->text (self),1,1,1
+prod_001205,text->text (self),1,1,1
+prod_000878,text->text (self),1,1,1
+prod_000354,text->text (self),1,1,1
+prod_000706,text->text (self),1,1,1
+prod_000539,text->text (self),1,1,1
+prod_001730,text->text (self),1,1,1
+prod_001622,text->text (self),1,1,1
+prod_001932,text->text (self),1,1,1
+prod_001365,text->text (self),1,1,1
+prod_000969,text->text (self),1,1,1
+prod_000176,text->text (self),1,1,1
+prod_001678,text->text (self),1,1,1
+prod_000803,text->text (self),1,1,1
+prod_001610,text->text (self),1,1,1
+prod_000123,text->text (self),1,1,1
+prod_000614,text->text (self),1,1,1
+prod_001220,text->text (self),1,1,1
+prod_000559,text->text (self),1,1,1
+prod_001011,text->text (self),1,1,1
+prod_001323,text->text (self),1,1,1
+prod_000946,text->text (self),1,1,1
+prod_000334,text->text (self),1,1,1
+prod_001327,text->text (self),1,1,1
+prod_000195,text->text (self),1,1,1
+prod_000523,text->text (self),1,1,1
+prod_000792,text->text (self),1,1,1
+prod_001713,text->text (self),1,1,1
+prod_000325,text->text (self),1,1,1
+prod_001198,text->text (self),1,1,1
+prod_000268,text->text (self),1,1,1
+prod_001459,text->text (self),1,1,1
+prod_001430,text->text (self),1,1,1
+prod_000067,text->text (self),1,1,1
+prod_000942,text->text (self),1,1,1
+prod_000534,text->text (self),1,1,1
+prod_001141,text->text (self),1,1,1
+prod_000497,text->text (self),1,1,1
+prod_001755,text->text (self),1,1,1
+prod_001411,text->text (self),1,1,1
+prod_000922,text->text (self),1,1,1
+prod_001943,text->text (self),1,1,1
+prod_001767,text->text (self),1,1,1
+prod_001003,text->text (self),1,1,1
+prod_001634,text->text (self),1,1,1
+prod_001553,text->text (self),1,1,1
+prod_000467,text->text (self),1,1,1
+prod_001660,text->text (self),1,1,1
+prod_000397,text->text (self),1,1,1
+prod_000935,text->text (self),1,1,1
+prod_001748,text->text (self),1,1,1
+prod_001579,text->text (self),1,1,1
+prod_001658,text->text (self),1,1,1
+prod_001505,text->text (self),1,1,1
+prod_000726,text->text (self),1,1,1
+prod_000531,text->text (self),1,1,1
+prod_001168,text->text (self),1,1,1
+prod_001370,text->text (self),1,1,1
+prod_000957,text->text (self),1,1,1
+prod_000263,text->text (self),1,1,1
+prod_000850,text->text (self),1,1,1
+prod_001615,text->text (self),1,1,1
+prod_000242,text->text (self),1,1,1
+prod_001834,text->text (self),1,1,1
+prod_001201,text->text (self),1,1,1
+prod_000481,text->text (self),1,1,1
+prod_001280,text->text (self),1,1,1
+prod_001818,text->text (self),1,1,1
+prod_000368,text->text (self),1,1,1
+prod_001013,text->text (self),1,1,1
+prod_001241,text->text (self),1,1,1
+prod_001564,text->text (self),1,1,1
+prod_000732,text->text (self),1,1,1
+prod_000757,text->text (self),1,1,1
+prod_000576,text->text (self),1,1,1
+prod_000071,text->text (self),1,1,1
+prod_001646,text->text (self),1,1,1
+prod_000261,text->text (self),1,1,1
+prod_000051,text->text (self),1,1,1
+prod_000199,text->text (self),1,1,1
+prod_000552,text->text (self),1,1,1
+prod_000839,text->text (self),1,1,1
+prod_000335,text->text (self),1,1,1
+prod_001697,text->text (self),1,1,1
+prod_000589,text->text (self),1,1,1
+prod_000430,text->text (self),1,1,1
+prod_000465,text->text (self),1,1,1
+prod_000944,text->text (self),1,1,1
+prod_000892,text->text (self),1,1,1
+prod_001232,text->text (self),1,1,1
+prod_000697,text->text (self),1,1,1
+prod_001240,text->text (self),1,1,1
+prod_001153,text->text (self),1,1,1
+prod_000586,text->text (self),1,1,1
+prod_001256,text->text (self),1,1,1
+prod_001976,text->text (self),1,1,1
+prod_001109,text->text (self),1,1,1
+prod_000720,text->text (self),1,1,1
+prod_000401,text->text (self),1,1,1
+prod_000565,text->text (self),1,1,1
+prod_000193,text->text (self),1,1,1
+prod_001436,text->text (self),1,1,1
+prod_001019,text->text (self),1,1,1
+prod_001679,text->text (self),1,1,1
+prod_000617,text->text (self),1,1,1
+prod_001787,text->text (self),1,1,1
+prod_001484,text->text (self),1,1,1
+prod_001512,text->text (self),1,1,1
+prod_000142,text->text (self),1,1,1
+prod_001125,text->text (self),1,1,1
+prod_000002,text->text (self),1,1,1
+prod_001812,text->text (self),1,1,1
+prod_001870,text->text (self),1,1,1
+prod_001158,text->text (self),1,1,1
+prod_000342,text->text (self),1,1,1
+prod_001589,text->text (self),1,1,1
+prod_000489,text->text (self),1,1,1
+prod_001800,text->text (self),1,1,1
+prod_000267,text->text (self),1,1,1
+prod_000379,text->text (self),1,1,1
+prod_000685,text->text (self),1,1,1
+prod_000699,text->text (self),1,1,1
+prod_000442,text->text (self),1,1,1
+prod_000273,text->text (self),1,1,1
+prod_000185,text->text (self),1,1,1
+prod_000930,text->text (self),1,1,1
+prod_000246,text->text (self),1,1,1
+prod_000542,text->text (self),1,1,1
+prod_001669,text->text (self),1,1,1
+prod_000592,text->text (self),1,1,1
+prod_000812,text->text (self),1,1,1
+prod_001875,text->text (self),1,1,1
+prod_001111,text->text (self),1,1,1
+prod_001852,text->text (self),1,1,1
+prod_001314,text->text (self),1,1,1
+prod_000418,text->text (self),1,1,1
+prod_000275,text->text (self),1,1,1
+prod_000727,text->text (self),1,1,1
+prod_001486,text->text (self),1,1,1
+prod_001455,text->text (self),1,1,1
+prod_000252,text->text (self),1,1,1
+prod_000416,text->text (self),1,1,1
+prod_001186,text->text (self),1,1,1
+prod_001935,text->text (self),1,1,1
+prod_001028,text->text (self),1,1,1
+prod_000313,text->text (self),1,1,1
+prod_001745,text->text (self),1,1,1
+prod_000384,text->text (self),1,1,1
+prod_001271,text->text (self),1,1,1
+prod_000428,text->text (self),1,1,1
+prod_000735,text->text (self),1,1,1
+prod_000748,text->text (self),1,1,1
+prod_000761,text->text (self),1,1,1
+prod_001556,text->text (self),1,1,1
+prod_000411,text->text (self),1,1,1
+prod_001629,text->text (self),1,1,1
+prod_001950,text->text (self),1,1,1
+prod_000623,text->text (self),1,1,1
+prod_000927,text->text (self),1,1,1
+prod_001922,text->text (self),1,1,1
+prod_000558,text->text (self),1,1,1
+prod_001207,text->text (self),1,1,1
+prod_001891,text->text (self),1,1,1
+prod_000183,text->text (self),1,1,1
+prod_001330,text->text (self),1,1,1
+prod_000715,text->text (self),1,1,1
+prod_000171,text->text (self),1,1,1
+prod_000295,text->text (self),1,1,1
+prod_000214,image->image (self),1,1,1
+prod_001528,image->image (self),1,1,1
+prod_000790,image->image (self),1,1,1
+prod_001184,image->image (self),1,1,1
+prod_001772,image->image (self),1,1,1
+prod_000488,image->image (self),1,1,1
+prod_000936,image->image (self),1,1,1
+prod_001598,image->image (self),1,1,1
+prod_001296,image->image (self),1,1,1
+prod_001119,image->image (self),1,1,1
+prod_001290,image->image (self),1,1,1
+prod_000309,image->image (self),1,1,1
+prod_001390,image->image (self),1,1,1
+prod_001987,image->image (self),1,1,1
+prod_000848,image->image (self),1,1,1
+prod_001536,image->image (self),1,1,1
+prod_001724,image->image (self),1,1,1
+prod_000879,image->image (self),1,1,1
+prod_000370,image->image (self),1,1,1
+prod_000056,image->image (self),1,1,1
+prod_000981,image->image (self),1,1,1
+prod_001270,image->image (self),1,1,1
+prod_000548,image->image (self),1,1,1
+prod_001618,image->image (self),1,1,1
+prod_001791,image->image (self),1,1,1
+prod_000926,image->image (self),1,1,1
+prod_001282,image->image (self),1,1,1
+prod_000829,image->image (self),1,1,1
+prod_000675,image->image (self),1,1,1
+prod_000070,image->image (self),1,1,1
+prod_000574,image->image (self),1,1,1
+prod_000065,image->image (self),1,1,1
+prod_001385,image->image (self),1,1,1
+prod_000919,image->image (self),1,1,1
+prod_001251,image->image (self),1,1,1
+prod_000111,image->image (self),1,1,1
+prod_001139,image->image (self),1,1,1
+prod_001243,image->image (self),1,1,1
+prod_000760,image->image (self),1,1,1
+prod_001862,image->image (self),1,1,1
+prod_001562,image->image (self),1,1,1
+prod_000439,image->image (self),1,1,1
+prod_000124,image->image (self),1,1,1
+prod_001937,image->image (self),1,1,1
+prod_000785,image->image (self),1,1,1
+prod_001293,image->image (self),1,1,1
+prod_001244,image->image (self),1,1,1
+prod_000580,image->image (self),1,1,1
+prod_000385,image->image (self),1,1,1
+prod_000751,image->image (self),1,1,1
+prod_001446,image->image (self),1,1,1
+prod_000511,image->image (self),1,1,1
+prod_000029,image->image (self),1,1,1
+prod_000128,image->image (self),1,1,1
+prod_001593,image->image (self),1,1,1
+prod_000971,image->image (self),1,1,1
+prod_001871,image->image (self),1,1,1
+prod_000824,image->image (self),1,1,1
+prod_000429,image->image (self),1,1,1
+prod_000239,image->image (self),1,1,1
+prod_001820,image->image (self),1,1,1
+prod_001395,image->image (self),1,1,1
+prod_000822,image->image (self),1,1,1
+prod_000955,image->image (self),1,1,1
+prod_001338,image->image (self),1,1,1
+prod_000364,image->image (self),1,1,1
+prod_000417,image->image (self),1,1,1
+prod_000369,image->image (self),1,1,1
+prod_001628,image->image (self),1,1,1
+prod_001444,image->image (self),1,1,1
+prod_000983,image->image (self),1,1,1
+prod_000069,image->image (self),1,1,1
+prod_000941,image->image (self),1,1,1
+prod_001570,image->image (self),1,1,1
+prod_001248,image->image (self),1,1,1
+prod_001397,image->image (self),1,1,1
+prod_000841,image->image (self),1,1,1
+prod_000483,image->image (self),1,1,1
+prod_001315,image->image (self),1,1,1
+prod_000683,image->image (self),1,1,1
+prod_000750,image->image (self),1,1,1
+prod_001594,image->image (self),1,1,1
+prod_000536,image->image (self),1,1,1
+prod_000594,image->image (self),1,1,1
+prod_001348,image->image (self),1,1,1
+prod_000886,image->image (self),1,1,1
+prod_001145,image->image (self),1,1,1
+prod_000099,image->image (self),1,1,1
+prod_001919,image->image (self),1,1,1
+prod_000256,image->image (self),1,1,1
+prod_000292,image->image (self),1,1,1
+prod_001691,image->image (self),1,1,1
+prod_001673,image->image (self),1,1,1
+prod_001648,image->image (self),1,1,1
+prod_001939,image->image (self),1,1,1
+prod_000357,image->image (self),1,1,1
+prod_001743,image->image (self),1,1,1
+prod_000656,image->image (self),1,1,1
+prod_000327,image->image (self),1,1,1
+prod_001033,image->image (self),1,1,1
+prod_001738,image->image (self),1,1,1
+prod_001635,image->image (self),1,1,1
+prod_000597,image->image (self),1,1,1
+prod_001821,image->image (self),1,1,1
+prod_001128,image->image (self),1,1,1
+prod_000717,image->image (self),1,1,1
+prod_001799,image->image (self),1,1,1
+prod_000968,image->image (self),1,1,1
+prod_000823,image->image (self),1,1,1
+prod_001920,image->image (self),1,1,1
+prod_000984,image->image (self),1,1,1
+prod_001927,image->image (self),1,1,1
+prod_001664,image->image (self),1,1,1
+prod_000436,image->image (self),1,1,1
+prod_000945,image->image (self),1,1,1
+prod_001435,image->image (self),1,1,1
+prod_001089,image->image (self),1,1,1
+prod_001046,image->image (self),1,1,1
+prod_000425,image->image (self),1,1,1
+prod_000456,image->image (self),1,1,1
+prod_001823,image->image (self),1,1,1
+prod_001432,image->image (self),1,1,1
+prod_000547,image->image (self),1,1,1
+prod_001829,image->image (self),1,1,1
+prod_000797,image->image (self),1,1,1
+prod_000624,image->image (self),1,1,1
+prod_000213,image->image (self),1,1,1
+prod_001501,image->image (self),1,1,1
+prod_000482,image->image (self),1,1,1
+prod_000345,image->image (self),1,1,1
+prod_001412,image->image (self),1,1,1
+prod_001443,image->image (self),1,1,1
+prod_000308,image->image (self),1,1,1
+prod_000423,image->image (self),1,1,1
+prod_001514,image->image (self),1,1,1
+prod_001666,image->image (self),1,1,1
+prod_000905,image->image (self),1,1,1
+prod_001782,image->image (self),1,1,1
+prod_001093,image->image (self),1,1,1
+prod_001225,image->image (self),1,1,1
+prod_001258,image->image (self),1,1,1
+prod_000233,image->image (self),1,1,1
+prod_000120,image->image (self),1,1,1
+prod_001349,image->image (self),1,1,1
+prod_000928,image->image (self),1,1,1
+prod_000679,image->image (self),1,1,1
+prod_001333,image->image (self),1,1,1
+prod_000135,image->image (self),1,1,1
+prod_000953,image->image (self),1,1,1
+prod_000396,image->image (self),1,1,1
+prod_000432,image->image (self),1,1,1
+prod_000419,image->image (self),1,1,1
+prod_000235,image->image (self),1,1,1
+prod_001291,image->image (self),1,1,1
+prod_000109,image->image (self),1,1,1
+prod_000300,image->image (self),1,1,1
+prod_000486,image->image (self),1,1,1
+prod_000212,image->image (self),1,1,1
+prod_001731,image->image (self),1,1,1
+prod_000772,image->image (self),1,1,1
+prod_001558,image->image (self),1,1,1
+prod_001384,image->image (self),1,1,1
+prod_000709,image->image (self),1,1,1
+prod_001753,image->image (self),1,1,1
+prod_000277,image->image (self),1,1,1
+prod_000769,image->image (self),1,1,1
+prod_001847,image->image (self),1,1,1
+prod_000860,image->image (self),1,1,1
+prod_000355,image->image (self),1,1,1
+prod_000253,image->image (self),1,1,1
+prod_001554,image->image (self),1,1,1
+prod_001640,image->image (self),1,1,1
+prod_001778,image->image (self),1,1,1
+prod_001795,image->image (self),1,1,1
+prod_000909,image->image (self),1,1,1
+prod_000787,image->image (self),1,1,1
+prod_000498,image->image (self),1,1,1
+prod_001990,image->image (self),1,1,1
+prod_000272,image->image (self),1,1,1
+prod_000414,image->image (self),1,1,1
+prod_000817,image->image (self),1,1,1
+prod_001272,image->image (self),1,1,1
+prod_000533,image->image (self),1,1,1
+prod_000049,image->image (self),1,1,1
+prod_000595,image->image (self),1,1,1
+prod_000249,image->image (self),1,1,1
+prod_000258,image->image (self),1,1,1
+prod_001555,image->image (self),1,1,1
+prod_000947,image->image (self),1,1,1
+prod_001108,image->image (self),1,1,1
+prod_000377,image->image (self),1,1,1
+prod_000319,image->image (self),1,1,1
+prod_000641,image->image (self),1,1,1
+prod_001537,image->image (self),1,1,1
+prod_001164,image->image (self),1,1,1
+prod_001121,image->image (self),1,1,1
+prod_001190,image->image (self),1,1,1
+prod_001278,image->image (self),1,1,1
+prod_000023,image->image (self),1,1,1
+prod_000353,image->image (self),1,1,1
+prod_000063,image->image (self),1,1,1
+prod_001117,image->image (self),1,1,1
+prod_000189,image->image (self),1,1,1
+prod_000698,image->image (self),1,1,1
+prod_000241,image->image (self),1,1,1
+prod_001995,image->image (self),1,1,1
+prod_001811,image->image (self),1,1,1
+prod_001566,image->image (self),1,1,1
+prod_000779,image->image (self),1,1,1
+prod_001607,image->image (self),1,1,1
+prod_000197,image->image (self),1,1,1
+prod_001687,image->image (self),1,1,1
+prod_001004,image->image (self),1,1,1
+prod_001005,image->image (self),1,1,1
+prod_001814,image->image (self),1,1,1
+prod_001831,image->image (self),1,1,1
+prod_000100,image->image (self),1,1,1
+prod_001884,image->image (self),1,1,1
+prod_001934,image->image (self),1,1,1
+prod_001938,image->image (self),1,1,1
+prod_000222,image->image (self),1,1,1
+prod_000920,image->image (self),1,1,1
+prod_001127,image->image (self),1,1,1
+prod_001612,image->image (self),1,1,1
+prod_000622,image->image (self),1,1,1
+prod_000571,image->image (self),1,1,1
+prod_000764,image->image (self),1,1,1
+prod_000818,image->image (self),1,1,1
+prod_000912,image->image (self),1,1,1
+prod_001345,image->image (self),1,1,1
+prod_000908,image->image (self),1,1,1
+prod_000453,image->image (self),1,1,1
+prod_001064,image->image (self),1,1,1
+prod_001844,image->image (self),1,1,1
+prod_000115,image->image (self),1,1,1
+prod_000618,image->image (self),1,1,1
+prod_001209,image->image (self),1,1,1
+prod_000474,image->image (self),1,1,1
+prod_001636,image->image (self),1,1,1
+prod_001313,image->image (self),1,1,1
+prod_000301,image->image (self),1,1,1
+prod_000283,image->image (self),1,1,1
+prod_001171,image->image (self),1,1,1
+prod_000386,image->image (self),1,1,1
+prod_000634,image->image (self),1,1,1
+prod_000588,image->image (self),1,1,1
+prod_001360,image->image (self),1,1,1
+prod_000655,image->image (self),1,1,1
+prod_000174,image->image (self),1,1,1
+prod_001991,image->image (self),1,1,1
+prod_001705,image->image (self),1,1,1
+prod_001274,image->image (self),1,1,1
+prod_001264,image->image (self),1,1,1
+prod_001326,image->image (self),1,1,1
+prod_001676,image->image (self),1,1,1
+prod_000632,image->image (self),1,1,1
+prod_000078,image->image (self),1,1,1
+prod_001992,image->image (self),1,1,1
+prod_000032,image->image (self),1,1,1
+prod_000867,image->image (self),1,1,1
+prod_000310,image->image (self),1,1,1
+prod_000712,image->image (self),1,1,1
+prod_000347,image->image (self),1,1,1
+prod_000164,image->image (self),1,1,1
+prod_000205,image->image (self),1,1,1
+prod_000710,image->image (self),1,1,1
+prod_001367,image->image (self),1,1,1
+prod_000538,image->image (self),1,1,1
+prod_000371,image->image (self),1,1,1
+prod_001965,image->image (self),1,1,1
+prod_000435,image->image (self),1,1,1
+prod_001710,image->image (self),1,1,1
+prod_001945,image->image (self),1,1,1
+prod_001783,image->image (self),1,1,1
+prod_000220,image->image (self),1,1,1
+prod_001930,image->image (self),1,1,1
+prod_000989,image->image (self),1,1,1
+prod_000606,image->image (self),1,1,1
+prod_001394,image->image (self),1,1,1
+prod_000059,image->image (self),1,1,1
+prod_001063,image->image (self),1,1,1
+prod_000530,image->image (self),1,1,1
+prod_000073,image->image (self),1,1,1
+prod_000163,image->image (self),1,1,1
+prod_001977,image->image (self),1,1,1
+prod_001135,image->image (self),1,1,1
+prod_001012,image->image (self),1,1,1
+prod_001417,image->image (self),1,1,1
+prod_000587,image->image (self),1,1,1
+prod_001652,image->image (self),1,1,1
+prod_000045,image->image (self),1,1,1
+prod_000949,image->image (self),1,1,1
+prod_001366,image->image (self),1,1,1
+prod_001234,image->image (self),1,1,1
+prod_000076,image->image (self),1,1,1
+prod_001916,image->image (self),1,1,1
+prod_001414,image->image (self),1,1,1
+prod_001283,image->image (self),1,1,1
+prod_001979,image->image (self),1,1,1
+prod_000441,image->image (self),1,1,1
+prod_000518,image->image (self),1,1,1
+prod_000814,image->image (self),1,1,1
+prod_000030,image->image (self),1,1,1
+prod_001091,image->image (self),1,1,1
+prod_001513,image->image (self),1,1,1
+prod_000782,image->image (self),1,1,1
+prod_001308,image->image (self),1,1,1
+prod_001230,image->image (self),1,1,1
+prod_001474,image->image (self),1,1,1
+prod_001592,image->image (self),1,1,1
+prod_001567,image->image (self),1,1,1
+prod_000356,image->image (self),1,1,1
+prod_001573,image->image (self),1,1,1
+prod_000044,image->image (self),1,1,1
+prod_001485,image->image (self),1,1,1
+prod_000169,image->image (self),1,1,1
+prod_000306,image->image (self),1,1,1
+prod_001488,image->image (self),1,1,1
+prod_001281,image->image (self),1,1,1
+prod_001924,image->image (self),1,1,1
+prod_000603,image->image (self),1,1,1
+prod_001319,image->image (self),1,1,1
+prod_001100,image->image (self),1,1,1
+prod_000987,image->image (self),1,1,1
+prod_001311,image->image (self),1,1,1
+prod_001442,image->image (self),1,1,1
+prod_001246,image->image (self),1,1,1
+prod_001415,image->image (self),1,1,1
+prod_001074,image->image (self),1,1,1
+prod_000738,image->image (self),1,1,1
+prod_000186,image->image (self),1,1,1
+prod_000846,image->image (self),1,1,1
+prod_000910,image->image (self),1,1,1
+prod_001205,image->image (self),1,1,1
+prod_000878,image->image (self),1,1,1
+prod_000354,image->image (self),1,1,1
+prod_000706,image->image (self),1,1,1
+prod_000539,image->image (self),1,1,1
+prod_001730,image->image (self),1,1,1
+prod_001622,image->image (self),1,1,1
+prod_001932,image->image (self),1,1,1
+prod_001365,image->image (self),1,1,1
+prod_000969,image->image (self),1,1,1
+prod_000176,image->image (self),1,1,1
+prod_001678,image->image (self),1,1,1
+prod_000803,image->image (self),1,1,1
+prod_001610,image->image (self),1,1,1
+prod_000123,image->image (self),1,1,1
+prod_000614,image->image (self),1,1,1
+prod_001220,image->image (self),1,1,1
+prod_000559,image->image (self),1,1,1
+prod_001011,image->image (self),1,1,1
+prod_001323,image->image (self),1,1,1
+prod_000946,image->image (self),1,1,1
+prod_000334,image->image (self),1,1,1
+prod_001327,image->image (self),1,1,1
+prod_000195,image->image (self),1,1,1
+prod_000523,image->image (self),1,1,1
+prod_000792,image->image (self),1,1,1
+prod_001713,image->image (self),1,1,1
+prod_000325,image->image (self),1,1,1
+prod_001198,image->image (self),1,1,1
+prod_000268,image->image (self),1,1,1
+prod_001459,image->image (self),1,1,1
+prod_001430,image->image (self),1,1,1
+prod_000067,image->image (self),1,1,1
+prod_000942,image->image (self),1,1,1
+prod_000534,image->image (self),1,1,1
+prod_001141,image->image (self),1,1,1
+prod_000497,image->image (self),1,1,1
+prod_001755,image->image (self),1,1,1
+prod_001411,image->image (self),1,1,1
+prod_000922,image->image (self),1,1,1
+prod_001943,image->image (self),1,1,1
+prod_001767,image->image (self),1,1,1
+prod_001003,image->image (self),1,1,1
+prod_001634,image->image (self),1,1,1
+prod_001553,image->image (self),1,1,1
+prod_000467,image->image (self),1,1,1
+prod_001660,image->image (self),1,1,1
+prod_000397,image->image (self),1,1,1
+prod_000935,image->image (self),1,1,1
+prod_001748,image->image (self),1,1,1
+prod_001579,image->image (self),1,1,1
+prod_001658,image->image (self),1,1,1
+prod_001505,image->image (self),1,1,1
+prod_000726,image->image (self),1,1,1
+prod_000531,image->image (self),1,1,1
+prod_001168,image->image (self),1,1,1
+prod_001370,image->image (self),1,1,1
+prod_000957,image->image (self),1,1,1
+prod_000263,image->image (self),1,1,1
+prod_000850,image->image (self),1,1,1
+prod_001615,image->image (self),1,1,1
+prod_000242,image->image (self),1,1,1
+prod_001834,image->image (self),1,1,1
+prod_001201,image->image (self),1,1,1
+prod_000481,image->image (self),1,1,1
+prod_001280,image->image (self),1,1,1
+prod_001818,image->image (self),1,1,1
+prod_000368,image->image (self),1,1,1
+prod_001013,image->image (self),1,1,1
+prod_001241,image->image (self),1,1,1
+prod_001564,image->image (self),1,1,1
+prod_000732,image->image (self),1,1,1
+prod_000757,image->image (self),1,1,1
+prod_000576,image->image (self),1,1,1
+prod_000071,image->image (self),1,1,1
+prod_001646,image->image (self),1,1,1
+prod_000261,image->image (self),1,1,1
+prod_000051,image->image (self),1,1,1
+prod_000199,image->image (self),1,1,1
+prod_000552,image->image (self),1,1,1
+prod_000839,image->image (self),1,1,1
+prod_000335,image->image (self),1,1,1
+prod_001697,image->image (self),1,1,1
+prod_000589,image->image (self),1,1,1
+prod_000430,image->image (self),1,1,1
+prod_000465,image->image (self),1,1,1
+prod_000944,image->image (self),1,1,1
+prod_000892,image->image (self),1,1,1
+prod_001232,image->image (self),1,1,1
+prod_000697,image->image (self),1,1,1
+prod_001240,image->image (self),1,1,1
+prod_001153,image->image (self),1,1,1
+prod_000586,image->image (self),1,1,1
+prod_001256,image->image (self),1,1,1
+prod_001976,image->image (self),1,1,1
+prod_001109,image->image (self),1,1,1
+prod_000720,image->image (self),1,1,1
+prod_000401,image->image (self),1,1,1
+prod_000565,image->image (self),1,1,1
+prod_000193,image->image (self),1,1,1
+prod_001436,image->image (self),1,1,1
+prod_001019,image->image (self),1,1,1
+prod_001679,image->image (self),1,1,1
+prod_000617,image->image (self),1,1,1
+prod_001787,image->image (self),1,1,1
+prod_001484,image->image (self),1,1,1
+prod_001512,image->image (self),1,1,1
+prod_000142,image->image (self),1,1,1
+prod_001125,image->image (self),1,1,1
+prod_000002,image->image (self),1,1,1
+prod_001812,image->image (self),1,1,1
+prod_001870,image->image (self),1,1,1
+prod_001158,image->image (self),1,1,1
+prod_000342,image->image (self),1,1,1
+prod_001589,image->image (self),1,1,1
+prod_000489,image->image (self),1,1,1
+prod_001800,image->image (self),1,1,1
+prod_000267,image->image (self),1,1,1
+prod_000379,image->image (self),1,1,1
+prod_000685,image->image (self),1,1,1
+prod_000699,image->image (self),1,1,1
+prod_000442,image->image (self),1,1,1
+prod_000273,image->image (self),1,1,1
+prod_000185,image->image (self),1,1,1
+prod_000930,image->image (self),1,1,1
+prod_000246,image->image (self),1,1,1
+prod_000542,image->image (self),1,1,1
+prod_001669,image->image (self),1,1,1
+prod_000592,image->image (self),1,1,1
+prod_000812,image->image (self),1,1,1
+prod_001875,image->image (self),1,1,1
+prod_001111,image->image (self),1,1,1
+prod_001852,image->image (self),1,1,1
+prod_001314,image->image (self),1,1,1
+prod_000418,image->image (self),1,1,1
+prod_000275,image->image (self),1,1,1
+prod_000727,image->image (self),1,1,1
+prod_001486,image->image (self),1,1,1
+prod_001455,image->image (self),1,1,1
+prod_000252,image->image (self),1,1,1
+prod_000416,image->image (self),1,1,1
+prod_001186,image->image (self),1,1,1
+prod_001935,image->image (self),1,1,1
+prod_001028,image->image (self),1,1,1
+prod_000313,image->image (self),1,1,1
+prod_001745,image->image (self),1,1,1
+prod_000384,image->image (self),1,1,1
+prod_001271,image->image (self),1,1,1
+prod_000428,image->image (self),1,1,1
+prod_000735,image->image (self),1,1,1
+prod_000748,image->image (self),1,1,1
+prod_000761,image->image (self),1,1,1
+prod_001556,image->image (self),1,1,1
+prod_000411,image->image (self),1,1,1
+prod_001629,image->image (self),1,1,1
+prod_001950,image->image (self),1,1,1
+prod_000623,image->image (self),1,1,1
+prod_000927,image->image (self),1,1,1
+prod_001922,image->image (self),1,1,1
+prod_000558,image->image (self),1,1,1
+prod_001207,image->image (self),1,1,1
+prod_001891,image->image (self),1,1,1
+prod_000183,image->image (self),1,1,1
+prod_001330,image->image (self),1,1,1
+prod_000715,image->image (self),1,1,1
+prod_000171,image->image (self),1,1,1
+prod_000295,image->image (self),1,1,1
+prod_000214,partial-text->text,1,1,1
+prod_001528,partial-text->text,0,0,0
+prod_000790,partial-text->text,1,1,1
+prod_001184,partial-text->text,1,1,1
+prod_001772,partial-text->text,1,1,1
+prod_000488,partial-text->text,1,1,1
+prod_000936,partial-text->text,1,1,1
+prod_001598,partial-text->text,1,1,1
+prod_001296,partial-text->text,1,1,1
+prod_001119,partial-text->text,1,1,1
+prod_001290,partial-text->text,1,1,1
+prod_000309,partial-text->text,0,1,1
+prod_001390,partial-text->text,1,1,1
+prod_001987,partial-text->text,1,1,1
+prod_000848,partial-text->text,1,1,1
+prod_001536,partial-text->text,1,1,1
+prod_001724,partial-text->text,1,1,1
+prod_000879,partial-text->text,1,1,1
+prod_000370,partial-text->text,1,1,1
+prod_000056,partial-text->text,1,1,1
+prod_000981,partial-text->text,1,1,1
+prod_001270,partial-text->text,1,1,1
+prod_000548,partial-text->text,1,1,1
+prod_001618,partial-text->text,1,1,1
+prod_001791,partial-text->text,1,1,1
+prod_000926,partial-text->text,1,1,1
+prod_001282,partial-text->text,1,1,1
+prod_000829,partial-text->text,1,1,1
+prod_000675,partial-text->text,1,1,1
+prod_000070,partial-text->text,1,1,1
+prod_000574,partial-text->text,1,1,1
+prod_000065,partial-text->text,1,1,1
+prod_001385,partial-text->text,1,1,1
+prod_000919,partial-text->text,1,1,1
+prod_001251,partial-text->text,1,1,1
+prod_000111,partial-text->text,1,1,1
+prod_001139,partial-text->text,1,1,1
+prod_001243,partial-text->text,1,1,1
+prod_000760,partial-text->text,1,1,1
+prod_001862,partial-text->text,1,1,1
+prod_001562,partial-text->text,1,1,1
+prod_000439,partial-text->text,1,1,1
+prod_000124,partial-text->text,1,1,1
+prod_001937,partial-text->text,1,1,1
+prod_000785,partial-text->text,1,1,1
+prod_001293,partial-text->text,1,1,1
+prod_001244,partial-text->text,1,1,1
+prod_000580,partial-text->text,1,1,1
+prod_000385,partial-text->text,1,1,1
+prod_000751,partial-text->text,1,1,1
+prod_001446,partial-text->text,1,1,1
+prod_000511,partial-text->text,1,1,1
+prod_000029,partial-text->text,1,1,1
+prod_000128,partial-text->text,1,1,1
+prod_001593,partial-text->text,1,1,1
+prod_000971,partial-text->text,1,1,1
+prod_001871,partial-text->text,1,1,1
+prod_000824,partial-text->text,1,1,1
+prod_000429,partial-text->text,1,1,1
+prod_000239,partial-text->text,1,1,1
+prod_001820,partial-text->text,1,1,1
+prod_001395,partial-text->text,1,1,1
+prod_000822,partial-text->text,1,1,1
+prod_000955,partial-text->text,1,1,1
+prod_001338,partial-text->text,1,1,1
+prod_000364,partial-text->text,1,1,1
+prod_000417,partial-text->text,1,1,1
+prod_000369,partial-text->text,1,1,1
+prod_001628,partial-text->text,1,1,1
+prod_001444,partial-text->text,1,1,1
+prod_000983,partial-text->text,1,1,1
+prod_000069,partial-text->text,1,1,1
+prod_000941,partial-text->text,1,1,1
+prod_001570,partial-text->text,1,1,1
+prod_001248,partial-text->text,1,1,1
+prod_001397,partial-text->text,1,1,1
+prod_000841,partial-text->text,1,1,1
+prod_000483,partial-text->text,1,1,1
+prod_001315,partial-text->text,1,1,1
+prod_000683,partial-text->text,1,1,1
+prod_000750,partial-text->text,1,1,1
+prod_001594,partial-text->text,1,1,1
+prod_000536,partial-text->text,1,1,1
+prod_000594,partial-text->text,1,1,1
+prod_001348,partial-text->text,1,1,1
+prod_000886,partial-text->text,1,1,1
+prod_001145,partial-text->text,1,1,1
+prod_000099,partial-text->text,1,1,1
+prod_001919,partial-text->text,1,1,1
+prod_000256,partial-text->text,1,1,1
+prod_000292,partial-text->text,1,1,1
+prod_001691,partial-text->text,1,1,1
+prod_001673,partial-text->text,1,1,1
+prod_001648,partial-text->text,1,1,1
+prod_001939,partial-text->text,1,1,1
+prod_000357,partial-text->text,1,1,1
+prod_001743,partial-text->text,1,1,1
+prod_000656,partial-text->text,1,1,1
+prod_000327,partial-text->text,1,1,1
+prod_001033,partial-text->text,1,1,1
+prod_001738,partial-text->text,1,1,1
+prod_001635,partial-text->text,0,1,1
+prod_000597,partial-text->text,1,1,1
+prod_001821,partial-text->text,1,1,1
+prod_001128,partial-text->text,1,1,1
+prod_000717,partial-text->text,1,1,1
+prod_001799,partial-text->text,1,1,1
+prod_000968,partial-text->text,1,1,1
+prod_000823,partial-text->text,1,1,1
+prod_001920,partial-text->text,1,1,1
+prod_000984,partial-text->text,1,1,1
+prod_001927,partial-text->text,1,1,1
+prod_001664,partial-text->text,1,1,1
+prod_000436,partial-text->text,1,1,1
+prod_000945,partial-text->text,1,1,1
+prod_001435,partial-text->text,1,1,1
+prod_001089,partial-text->text,1,1,1
+prod_001046,partial-text->text,1,1,1
+prod_000425,partial-text->text,1,1,1
+prod_000456,partial-text->text,1,1,1
+prod_001823,partial-text->text,1,1,1
+prod_001432,partial-text->text,1,1,1
+prod_000547,partial-text->text,1,1,1
+prod_001829,partial-text->text,1,1,1
+prod_000797,partial-text->text,1,1,1
+prod_000624,partial-text->text,1,1,1
+prod_000213,partial-text->text,1,1,1
+prod_001501,partial-text->text,1,1,1
+prod_000482,partial-text->text,1,1,1
+prod_000345,partial-text->text,1,1,1
+prod_001412,partial-text->text,1,1,1
+prod_001443,partial-text->text,1,1,1
+prod_000308,partial-text->text,1,1,1
+prod_000423,partial-text->text,1,1,1
+prod_001514,partial-text->text,1,1,1
+prod_001666,partial-text->text,1,1,1
+prod_000905,partial-text->text,1,1,1
+prod_001782,partial-text->text,1,1,1
+prod_001093,partial-text->text,1,1,1
+prod_001225,partial-text->text,1,1,1
+prod_001258,partial-text->text,1,1,1
+prod_000233,partial-text->text,1,1,1
+prod_000120,partial-text->text,1,1,1
+prod_001349,partial-text->text,1,1,1
+prod_000928,partial-text->text,1,1,1
+prod_000679,partial-text->text,1,1,1
+prod_001333,partial-text->text,1,1,1
+prod_000135,partial-text->text,1,1,1
+prod_000953,partial-text->text,1,1,1
+prod_000396,partial-text->text,1,1,1
+prod_000432,partial-text->text,1,1,1
+prod_000419,partial-text->text,1,1,1
+prod_000235,partial-text->text,1,1,1
+prod_001291,partial-text->text,1,1,1
+prod_000109,partial-text->text,1,1,1
+prod_000300,partial-text->text,1,1,1
+prod_000486,partial-text->text,1,1,1
+prod_000212,partial-text->text,1,1,1
+prod_001731,partial-text->text,1,1,1
+prod_000772,partial-text->text,1,1,1
+prod_001558,partial-text->text,1,1,1
+prod_001384,partial-text->text,1,1,1
+prod_000709,partial-text->text,1,1,1
+prod_001753,partial-text->text,1,1,1
+prod_000277,partial-text->text,1,1,1
+prod_000769,partial-text->text,1,1,1
+prod_001847,partial-text->text,1,1,1
+prod_000860,partial-text->text,1,1,1
+prod_000355,partial-text->text,1,1,1
+prod_000253,partial-text->text,1,1,1
+prod_001554,partial-text->text,1,1,1
+prod_001640,partial-text->text,1,1,1
+prod_001778,partial-text->text,1,1,1
+prod_001795,partial-text->text,1,1,1
+prod_000909,partial-text->text,1,1,1
+prod_000787,partial-text->text,1,1,1
+prod_000498,partial-text->text,1,1,1
+prod_001990,partial-text->text,1,1,1
+prod_000272,partial-text->text,1,1,1
+prod_000414,partial-text->text,1,1,1
+prod_000817,partial-text->text,1,1,1
+prod_001272,partial-text->text,1,1,1
+prod_000533,partial-text->text,1,1,1
+prod_000049,partial-text->text,1,1,1
+prod_000595,partial-text->text,1,1,1
+prod_000249,partial-text->text,1,1,1
+prod_000258,partial-text->text,1,1,1
+prod_001555,partial-text->text,1,1,1
+prod_000947,partial-text->text,1,1,1
+prod_001108,partial-text->text,1,1,1
+prod_000377,partial-text->text,1,1,1
+prod_000319,partial-text->text,1,1,1
+prod_000641,partial-text->text,1,1,1
+prod_001537,partial-text->text,1,1,1
+prod_001164,partial-text->text,1,1,1
+prod_001121,partial-text->text,1,1,1
+prod_001190,partial-text->text,1,1,1
+prod_001278,partial-text->text,1,1,1
+prod_000023,partial-text->text,1,1,1
+prod_000353,partial-text->text,1,1,1
+prod_000063,partial-text->text,1,1,1
+prod_001117,partial-text->text,1,1,1
+prod_000189,partial-text->text,1,1,1
+prod_000698,partial-text->text,1,1,1
+prod_000241,partial-text->text,1,1,1
+prod_001995,partial-text->text,1,1,1
+prod_001811,partial-text->text,1,1,1
+prod_001566,partial-text->text,1,1,1
+prod_000779,partial-text->text,1,1,1
+prod_001607,partial-text->text,1,1,1
+prod_000197,partial-text->text,1,1,1
+prod_001687,partial-text->text,1,1,1
+prod_001004,partial-text->text,1,1,1
+prod_001005,partial-text->text,1,1,1
+prod_001814,partial-text->text,1,1,1
+prod_001831,partial-text->text,1,1,1
+prod_000100,partial-text->text,1,1,1
+prod_001884,partial-text->text,1,1,1
+prod_001934,partial-text->text,1,1,1
+prod_001938,partial-text->text,1,1,1
+prod_000222,partial-text->text,1,1,1
+prod_000920,partial-text->text,1,1,1
+prod_001127,partial-text->text,1,1,1
+prod_001612,partial-text->text,1,1,1
+prod_000622,partial-text->text,1,1,1
+prod_000571,partial-text->text,1,1,1
+prod_000764,partial-text->text,1,1,1
+prod_000818,partial-text->text,1,1,1
+prod_000912,partial-text->text,1,1,1
+prod_001345,partial-text->text,1,1,1
+prod_000908,partial-text->text,1,1,1
+prod_000453,partial-text->text,1,1,1
+prod_001064,partial-text->text,1,1,1
+prod_001844,partial-text->text,1,1,1
+prod_000115,partial-text->text,1,1,1
+prod_000618,partial-text->text,1,1,1
+prod_001209,partial-text->text,1,1,1
+prod_000474,partial-text->text,1,1,1
+prod_001636,partial-text->text,1,1,1
+prod_001313,partial-text->text,1,1,1
+prod_000301,partial-text->text,1,1,1
+prod_000283,partial-text->text,1,1,1
+prod_001171,partial-text->text,1,1,1
+prod_000386,partial-text->text,1,1,1
+prod_000634,partial-text->text,1,1,1
+prod_000588,partial-text->text,1,1,1
+prod_001360,partial-text->text,1,1,1
+prod_000655,partial-text->text,1,1,1
+prod_000174,partial-text->text,1,1,1
+prod_001991,partial-text->text,1,1,1
+prod_001705,partial-text->text,1,1,1
+prod_001274,partial-text->text,1,1,1
+prod_001264,partial-text->text,1,1,1
+prod_001326,partial-text->text,1,1,1
+prod_001676,partial-text->text,1,1,1
+prod_000632,partial-text->text,1,1,1
+prod_000078,partial-text->text,1,1,1
+prod_001992,partial-text->text,1,1,1
+prod_000032,partial-text->text,1,1,1
+prod_000867,partial-text->text,1,1,1
+prod_000310,partial-text->text,1,1,1
+prod_000712,partial-text->text,1,1,1
+prod_000347,partial-text->text,1,1,1
+prod_000164,partial-text->text,1,1,1
+prod_000205,partial-text->text,1,1,1
+prod_000710,partial-text->text,1,1,1
+prod_001367,partial-text->text,1,1,1
+prod_000538,partial-text->text,1,1,1
+prod_000371,partial-text->text,1,1,1
+prod_001965,partial-text->text,1,1,1
+prod_000435,partial-text->text,1,1,1
+prod_001710,partial-text->text,1,1,1
+prod_001945,partial-text->text,1,1,1
+prod_001783,partial-text->text,1,1,1
+prod_000220,partial-text->text,1,1,1
+prod_001930,partial-text->text,1,1,1
+prod_000989,partial-text->text,1,1,1
+prod_000606,partial-text->text,1,1,1
+prod_001394,partial-text->text,1,1,1
+prod_000059,partial-text->text,1,1,1
+prod_001063,partial-text->text,1,1,1
+prod_000530,partial-text->text,1,1,1
+prod_000073,partial-text->text,1,1,1
+prod_000163,partial-text->text,1,1,1
+prod_001977,partial-text->text,0,1,1
+prod_001135,partial-text->text,1,1,1
+prod_001012,partial-text->text,1,1,1
+prod_001417,partial-text->text,1,1,1
+prod_000587,partial-text->text,1,1,1
+prod_001652,partial-text->text,1,1,1
+prod_000045,partial-text->text,1,1,1
+prod_000949,partial-text->text,1,1,1
+prod_001366,partial-text->text,1,1,1
+prod_001234,partial-text->text,1,1,1
+prod_000076,partial-text->text,1,1,1
+prod_001916,partial-text->text,1,1,1
+prod_001414,partial-text->text,0,1,1
+prod_001283,partial-text->text,1,1,1
+prod_001979,partial-text->text,1,1,1
+prod_000441,partial-text->text,1,1,1
+prod_000518,partial-text->text,1,1,1
+prod_000814,partial-text->text,1,1,1
+prod_000030,partial-text->text,1,1,1
+prod_001091,partial-text->text,1,1,1
+prod_001513,partial-text->text,1,1,1
+prod_000782,partial-text->text,1,1,1
+prod_001308,partial-text->text,1,1,1
+prod_001230,partial-text->text,1,1,1
+prod_001474,partial-text->text,1,1,1
+prod_001592,partial-text->text,1,1,1
+prod_001567,partial-text->text,1,1,1
+prod_000356,partial-text->text,1,1,1
+prod_001573,partial-text->text,1,1,1
+prod_000044,partial-text->text,1,1,1
+prod_001485,partial-text->text,1,1,1
+prod_000169,partial-text->text,1,1,1
+prod_000306,partial-text->text,1,1,1
+prod_001488,partial-text->text,1,1,1
+prod_001281,partial-text->text,1,1,1
+prod_001924,partial-text->text,1,1,1
+prod_000603,partial-text->text,1,1,1
+prod_001319,partial-text->text,1,1,1
+prod_001100,partial-text->text,1,1,1
+prod_000987,partial-text->text,1,1,1
+prod_001311,partial-text->text,1,1,1
+prod_001442,partial-text->text,1,1,1
+prod_001246,partial-text->text,1,1,1
+prod_001415,partial-text->text,1,1,1
+prod_001074,partial-text->text,1,1,1
+prod_000738,partial-text->text,1,1,1
+prod_000186,partial-text->text,1,1,1
+prod_000846,partial-text->text,1,1,1
+prod_000910,partial-text->text,1,1,1
+prod_001205,partial-text->text,1,1,1
+prod_000878,partial-text->text,1,1,1
+prod_000354,partial-text->text,1,1,1
+prod_000706,partial-text->text,1,1,1
+prod_000539,partial-text->text,1,1,1
+prod_001730,partial-text->text,1,1,1
+prod_001622,partial-text->text,1,1,1
+prod_001932,partial-text->text,1,1,1
+prod_001365,partial-text->text,1,1,1
+prod_000969,partial-text->text,1,1,1
+prod_000176,partial-text->text,1,1,1
+prod_001678,partial-text->text,1,1,1
+prod_000803,partial-text->text,1,1,1
+prod_001610,partial-text->text,1,1,1
+prod_000123,partial-text->text,1,1,1
+prod_000614,partial-text->text,1,1,1
+prod_001220,partial-text->text,1,1,1
+prod_000559,partial-text->text,1,1,1
+prod_001011,partial-text->text,1,1,1
+prod_001323,partial-text->text,1,1,1
+prod_000946,partial-text->text,1,1,1
+prod_000334,partial-text->text,1,1,1
+prod_001327,partial-text->text,1,1,1
+prod_000195,partial-text->text,1,1,1
+prod_000523,partial-text->text,1,1,1
+prod_000792,partial-text->text,1,1,1
+prod_001713,partial-text->text,1,1,1
+prod_000325,partial-text->text,1,1,1
+prod_001198,partial-text->text,1,1,1
+prod_000268,partial-text->text,1,1,1
+prod_001459,partial-text->text,1,1,1
+prod_001430,partial-text->text,1,1,1
+prod_000067,partial-text->text,1,1,1
+prod_000942,partial-text->text,1,1,1
+prod_000534,partial-text->text,1,1,1
+prod_001141,partial-text->text,1,1,1
+prod_000497,partial-text->text,1,1,1
+prod_001755,partial-text->text,1,1,1
+prod_001411,partial-text->text,1,1,1
+prod_000922,partial-text->text,1,1,1
+prod_001943,partial-text->text,1,1,1
+prod_001767,partial-text->text,1,1,1
+prod_001003,partial-text->text,1,1,1
+prod_001634,partial-text->text,1,1,1
+prod_001553,partial-text->text,1,1,1
+prod_000467,partial-text->text,1,1,1
+prod_001660,partial-text->text,1,1,1
+prod_000397,partial-text->text,1,1,1
+prod_000935,partial-text->text,1,1,1
+prod_001748,partial-text->text,1,1,1
+prod_001579,partial-text->text,1,1,1
+prod_001658,partial-text->text,1,1,1
+prod_001505,partial-text->text,1,1,1
+prod_000726,partial-text->text,1,1,1
+prod_000531,partial-text->text,1,1,1
+prod_001168,partial-text->text,1,1,1
+prod_001370,partial-text->text,1,1,1
+prod_000957,partial-text->text,1,1,1
+prod_000263,partial-text->text,1,1,1
+prod_000850,partial-text->text,1,1,1
+prod_001615,partial-text->text,1,1,1
+prod_000242,partial-text->text,1,1,1
+prod_001834,partial-text->text,1,1,1
+prod_001201,partial-text->text,1,1,1
+prod_000481,partial-text->text,1,1,1
+prod_001280,partial-text->text,1,1,1
+prod_001818,partial-text->text,1,1,1
+prod_000368,partial-text->text,1,1,1
+prod_001013,partial-text->text,1,1,1
+prod_001241,partial-text->text,1,1,1
+prod_001564,partial-text->text,1,1,1
+prod_000732,partial-text->text,1,1,1
+prod_000757,partial-text->text,1,1,1
+prod_000576,partial-text->text,0,1,1
+prod_000071,partial-text->text,1,1,1
+prod_001646,partial-text->text,1,1,1
+prod_000261,partial-text->text,1,1,1
+prod_000051,partial-text->text,1,1,1
+prod_000199,partial-text->text,1,1,1
+prod_000552,partial-text->text,1,1,1
+prod_000839,partial-text->text,1,1,1
+prod_000335,partial-text->text,1,1,1
+prod_001697,partial-text->text,1,1,1
+prod_000589,partial-text->text,1,1,1
+prod_000430,partial-text->text,1,1,1
+prod_000465,partial-text->text,1,1,1
+prod_000944,partial-text->text,1,1,1
+prod_000892,partial-text->text,1,1,1
+prod_001232,partial-text->text,1,1,1
+prod_000697,partial-text->text,1,1,1
+prod_001240,partial-text->text,1,1,1
+prod_001153,partial-text->text,1,1,1
+prod_000586,partial-text->text,1,1,1
+prod_001256,partial-text->text,1,1,1
+prod_001976,partial-text->text,1,1,1
+prod_001109,partial-text->text,1,1,1
+prod_000720,partial-text->text,1,1,1
+prod_000401,partial-text->text,1,1,1
+prod_000565,partial-text->text,1,1,1
+prod_000193,partial-text->text,1,1,1
+prod_001436,partial-text->text,1,1,1
+prod_001019,partial-text->text,1,1,1
+prod_001679,partial-text->text,1,1,1
+prod_000617,partial-text->text,1,1,1
+prod_001787,partial-text->text,1,1,1
+prod_001484,partial-text->text,1,1,1
+prod_001512,partial-text->text,1,1,1
+prod_000142,partial-text->text,1,1,1
+prod_001125,partial-text->text,1,1,1
+prod_000002,partial-text->text,1,1,1
+prod_001812,partial-text->text,1,1,1
+prod_001870,partial-text->text,1,1,1
+prod_001158,partial-text->text,1,1,1
+prod_000342,partial-text->text,1,1,1
+prod_001589,partial-text->text,1,1,1
+prod_000489,partial-text->text,1,1,1
+prod_001800,partial-text->text,1,1,1
+prod_000267,partial-text->text,1,1,1
+prod_000379,partial-text->text,1,1,1
+prod_000685,partial-text->text,1,1,1
+prod_000699,partial-text->text,1,1,1
+prod_000442,partial-text->text,0,1,1
+prod_000273,partial-text->text,1,1,1
+prod_000185,partial-text->text,1,1,1
+prod_000930,partial-text->text,1,1,1
+prod_000246,partial-text->text,1,1,1
+prod_000542,partial-text->text,1,1,1
+prod_001669,partial-text->text,1,1,1
+prod_000592,partial-text->text,1,1,1
+prod_000812,partial-text->text,1,1,1
+prod_001875,partial-text->text,1,1,1
+prod_001111,partial-text->text,1,1,1
+prod_001852,partial-text->text,1,1,1
+prod_001314,partial-text->text,1,1,1
+prod_000418,partial-text->text,1,1,1
+prod_000275,partial-text->text,1,1,1
+prod_000727,partial-text->text,1,1,1
+prod_001486,partial-text->text,1,1,1
+prod_001455,partial-text->text,1,1,1
+prod_000252,partial-text->text,1,1,1
+prod_000416,partial-text->text,1,1,1
+prod_001186,partial-text->text,1,1,1
+prod_001935,partial-text->text,1,1,1
+prod_001028,partial-text->text,1,1,1
+prod_000313,partial-text->text,1,1,1
+prod_001745,partial-text->text,1,1,1
+prod_000384,partial-text->text,1,1,1
+prod_001271,partial-text->text,0,1,1
+prod_000428,partial-text->text,1,1,1
+prod_000735,partial-text->text,1,1,1
+prod_000748,partial-text->text,1,1,1
+prod_000761,partial-text->text,1,1,1
+prod_001556,partial-text->text,1,1,1
+prod_000411,partial-text->text,1,1,1
+prod_001629,partial-text->text,1,1,1
+prod_001950,partial-text->text,1,1,1
+prod_000623,partial-text->text,1,1,1
+prod_000927,partial-text->text,1,1,1
+prod_001922,partial-text->text,1,1,1
+prod_000558,partial-text->text,1,1,1
+prod_001207,partial-text->text,1,1,1
+prod_001891,partial-text->text,1,1,1
+prod_000183,partial-text->text,1,1,1
+prod_001330,partial-text->text,1,1,1
+prod_000715,partial-text->text,1,1,1
+prod_000171,partial-text->text,1,1,1
+prod_000295,partial-text->text,1,1,1
+prod_000214,image->text,1,1,1
+prod_001528,image->text,1,1,1
+prod_000790,image->text,1,1,1
+prod_001184,image->text,0,1,1
+prod_001772,image->text,1,1,1
+prod_000488,image->text,0,1,1
+prod_000936,image->text,0,1,1
+prod_001598,image->text,0,0,0
+prod_001296,image->text,1,1,1
+prod_001119,image->text,1,1,1
+prod_001290,image->text,1,1,1
+prod_000309,image->text,0,1,1
+prod_001390,image->text,1,1,1
+prod_001987,image->text,1,1,1
+prod_000848,image->text,0,1,1
+prod_001536,image->text,1,1,1
+prod_001724,image->text,1,1,1
+prod_000879,image->text,0,1,1
+prod_000370,image->text,0,0,1
+prod_000056,image->text,1,1,1
+prod_000981,image->text,0,0,0
+prod_001270,image->text,1,1,1
+prod_000548,image->text,1,1,1
+prod_001618,image->text,1,1,1
+prod_001791,image->text,1,1,1
+prod_000926,image->text,0,1,1
+prod_001282,image->text,0,0,1
+prod_000829,image->text,1,1,1
+prod_000675,image->text,1,1,1
+prod_000070,image->text,0,0,0
+prod_000574,image->text,0,1,1
+prod_000065,image->text,0,1,1
+prod_001385,image->text,0,1,1
+prod_000919,image->text,1,1,1
+prod_001251,image->text,1,1,1
+prod_000111,image->text,1,1,1
+prod_001139,image->text,0,1,1
+prod_001243,image->text,0,1,1
+prod_000760,image->text,1,1,1
+prod_001862,image->text,1,1,1
+prod_001562,image->text,0,1,1
+prod_000439,image->text,0,0,0
+prod_000124,image->text,0,1,1
+prod_001937,image->text,1,1,1
+prod_000785,image->text,1,1,1
+prod_001293,image->text,0,1,1
+prod_001244,image->text,0,0,1
+prod_000580,image->text,0,1,1
+prod_000385,image->text,0,0,1
+prod_000751,image->text,0,1,1
+prod_001446,image->text,0,1,1
+prod_000511,image->text,1,1,1
+prod_000029,image->text,1,1,1
+prod_000128,image->text,1,1,1
+prod_001593,image->text,0,1,1
+prod_000971,image->text,1,1,1
+prod_001871,image->text,1,1,1
+prod_000824,image->text,1,1,1
+prod_000429,image->text,0,1,1
+prod_000239,image->text,1,1,1
+prod_001820,image->text,1,1,1
+prod_001395,image->text,1,1,1
+prod_000822,image->text,1,1,1
+prod_000955,image->text,0,1,1
+prod_001338,image->text,1,1,1
+prod_000364,image->text,0,0,1
+prod_000417,image->text,0,1,1
+prod_000369,image->text,1,1,1
+prod_001628,image->text,1,1,1
+prod_001444,image->text,1,1,1
+prod_000983,image->text,1,1,1
+prod_000069,image->text,1,1,1
+prod_000941,image->text,0,1,1
+prod_001570,image->text,1,1,1
+prod_001248,image->text,1,1,1
+prod_001397,image->text,1,1,1
+prod_000841,image->text,0,0,0
+prod_000483,image->text,0,1,1
+prod_001315,image->text,0,0,0
+prod_000683,image->text,1,1,1
+prod_000750,image->text,1,1,1
+prod_001594,image->text,1,1,1
+prod_000536,image->text,0,1,1
+prod_000594,image->text,1,1,1
+prod_001348,image->text,1,1,1
+prod_000886,image->text,0,1,1
+prod_001145,image->text,0,1,1
+prod_000099,image->text,0,1,1
+prod_001919,image->text,1,1,1
+prod_000256,image->text,1,1,1
+prod_000292,image->text,1,1,1
+prod_001691,image->text,0,1,1
+prod_001673,image->text,1,1,1
+prod_001648,image->text,0,0,1
+prod_001939,image->text,0,0,0
+prod_000357,image->text,0,1,1
+prod_001743,image->text,1,1,1
+prod_000656,image->text,1,1,1
+prod_000327,image->text,0,0,1
+prod_001033,image->text,1,1,1
+prod_001738,image->text,0,0,0
+prod_001635,image->text,0,1,1
+prod_000597,image->text,1,1,1
+prod_001821,image->text,0,0,0
+prod_001128,image->text,0,0,0
+prod_000717,image->text,1,1,1
+prod_001799,image->text,1,1,1
+prod_000968,image->text,0,1,1
+prod_000823,image->text,1,1,1
+prod_001920,image->text,1,1,1
+prod_000984,image->text,1,1,1
+prod_001927,image->text,1,1,1
+prod_001664,image->text,1,1,1
+prod_000436,image->text,0,1,1
+prod_000945,image->text,1,1,1
+prod_001435,image->text,1,1,1
+prod_001089,image->text,0,0,1
+prod_001046,image->text,0,0,0
+prod_000425,image->text,1,1,1
+prod_000456,image->text,1,1,1
+prod_001823,image->text,1,1,1
+prod_001432,image->text,1,1,1
+prod_000547,image->text,1,1,1
+prod_001829,image->text,1,1,1
+prod_000797,image->text,0,1,1
+prod_000624,image->text,1,1,1
+prod_000213,image->text,1,1,1
+prod_001501,image->text,1,1,1
+prod_000482,image->text,1,1,1
+prod_000345,image->text,1,1,1
+prod_001412,image->text,0,1,1
+prod_001443,image->text,0,0,0
+prod_000308,image->text,1,1,1
+prod_000423,image->text,1,1,1
+prod_001514,image->text,1,1,1
+prod_001666,image->text,0,1,1
+prod_000905,image->text,0,1,1
+prod_001782,image->text,0,0,0
+prod_001093,image->text,0,0,1
+prod_001225,image->text,1,1,1
+prod_001258,image->text,0,0,1
+prod_000233,image->text,1,1,1
+prod_000120,image->text,0,1,1
+prod_001349,image->text,1,1,1
+prod_000928,image->text,0,0,1
+prod_000679,image->text,0,1,1
+prod_001333,image->text,1,1,1
+prod_000135,image->text,1,1,1
+prod_000953,image->text,1,1,1
+prod_000396,image->text,1,1,1
+prod_000432,image->text,0,1,1
+prod_000419,image->text,0,1,1
+prod_000235,image->text,1,1,1
+prod_001291,image->text,1,1,1
+prod_000109,image->text,1,1,1
+prod_000300,image->text,0,0,1
+prod_000486,image->text,1,1,1
+prod_000212,image->text,0,0,0
+prod_001731,image->text,1,1,1
+prod_000772,image->text,1,1,1
+prod_001558,image->text,0,1,1
+prod_001384,image->text,0,1,1
+prod_000709,image->text,1,1,1
+prod_001753,image->text,1,1,1
+prod_000277,image->text,0,1,1
+prod_000769,image->text,0,1,1
+prod_001847,image->text,1,1,1
+prod_000860,image->text,1,1,1
+prod_000355,image->text,0,0,1
+prod_000253,image->text,1,1,1
+prod_001554,image->text,0,1,1
+prod_001640,image->text,1,1,1
+prod_001778,image->text,1,1,1
+prod_001795,image->text,1,1,1
+prod_000909,image->text,0,0,0
+prod_000787,image->text,0,1,1
+prod_000498,image->text,0,0,0
+prod_001990,image->text,0,0,1
+prod_000272,image->text,0,0,0
+prod_000414,image->text,0,0,0
+prod_000817,image->text,1,1,1
+prod_001272,image->text,0,0,0
+prod_000533,image->text,1,1,1
+prod_000049,image->text,1,1,1
+prod_000595,image->text,0,0,1
+prod_000249,image->text,0,0,0
+prod_000258,image->text,0,1,1
+prod_001555,image->text,1,1,1
+prod_000947,image->text,1,1,1
+prod_001108,image->text,0,1,1
+prod_000377,image->text,1,1,1
+prod_000319,image->text,1,1,1
+prod_000641,image->text,1,1,1
+prod_001537,image->text,1,1,1
+prod_001164,image->text,0,1,1
+prod_001121,image->text,1,1,1
+prod_001190,image->text,1,1,1
+prod_001278,image->text,0,0,0
+prod_000023,image->text,0,0,0
+prod_000353,image->text,0,1,1
+prod_000063,image->text,0,1,1
+prod_001117,image->text,1,1,1
+prod_000189,image->text,1,1,1
+prod_000698,image->text,0,0,0
+prod_000241,image->text,0,1,1
+prod_001995,image->text,1,1,1
+prod_001811,image->text,0,0,0
+prod_001566,image->text,1,1,1
+prod_000779,image->text,1,1,1
+prod_001607,image->text,1,1,1
+prod_000197,image->text,0,0,1
+prod_001687,image->text,1,1,1
+prod_001004,image->text,0,0,0
+prod_001005,image->text,1,1,1
+prod_001814,image->text,1,1,1
+prod_001831,image->text,0,1,1
+prod_000100,image->text,1,1,1
+prod_001884,image->text,1,1,1
+prod_001934,image->text,1,1,1
+prod_001938,image->text,0,0,0
+prod_000222,image->text,1,1,1
+prod_000920,image->text,0,1,1
+prod_001127,image->text,1,1,1
+prod_001612,image->text,0,1,1
+prod_000622,image->text,0,0,1
+prod_000571,image->text,0,1,1
+prod_000764,image->text,0,0,0
+prod_000818,image->text,1,1,1
+prod_000912,image->text,1,1,1
+prod_001345,image->text,1,1,1
+prod_000908,image->text,1,1,1
+prod_000453,image->text,1,1,1
+prod_001064,image->text,0,0,1
+prod_001844,image->text,1,1,1
+prod_000115,image->text,1,1,1
+prod_000618,image->text,0,0,1
+prod_001209,image->text,1,1,1
+prod_000474,image->text,0,1,1
+prod_001636,image->text,1,1,1
+prod_001313,image->text,1,1,1
+prod_000301,image->text,0,1,1
+prod_000283,image->text,1,1,1
+prod_001171,image->text,1,1,1
+prod_000386,image->text,1,1,1
+prod_000634,image->text,1,1,1
+prod_000588,image->text,1,1,1
+prod_001360,image->text,1,1,1
+prod_000655,image->text,1,1,1
+prod_000174,image->text,0,1,1
+prod_001991,image->text,1,1,1
+prod_001705,image->text,1,1,1
+prod_001274,image->text,1,1,1
+prod_001264,image->text,1,1,1
+prod_001326,image->text,0,0,0
+prod_001676,image->text,1,1,1
+prod_000632,image->text,1,1,1
+prod_000078,image->text,0,0,1
+prod_001992,image->text,0,0,0
+prod_000032,image->text,1,1,1
+prod_000867,image->text,1,1,1
+prod_000310,image->text,1,1,1
+prod_000712,image->text,0,0,0
+prod_000347,image->text,1,1,1
+prod_000164,image->text,1,1,1
+prod_000205,image->text,1,1,1
+prod_000710,image->text,0,1,1
+prod_001367,image->text,0,1,1
+prod_000538,image->text,0,0,0
+prod_000371,image->text,1,1,1
+prod_001965,image->text,0,1,1
+prod_000435,image->text,0,1,1
+prod_001710,image->text,0,0,0
+prod_001945,image->text,1,1,1
+prod_001783,image->text,1,1,1
+prod_000220,image->text,0,0,1
+prod_001930,image->text,0,1,1
+prod_000989,image->text,1,1,1
+prod_000606,image->text,1,1,1
+prod_001394,image->text,1,1,1
+prod_000059,image->text,0,0,0
+prod_001063,image->text,1,1,1
+prod_000530,image->text,0,0,1
+prod_000073,image->text,1,1,1
+prod_000163,image->text,0,0,1
+prod_001977,image->text,0,1,1
+prod_001135,image->text,1,1,1
+prod_001012,image->text,1,1,1
+prod_001417,image->text,0,0,1
+prod_000587,image->text,0,1,1
+prod_001652,image->text,0,1,1
+prod_000045,image->text,0,1,1
+prod_000949,image->text,0,1,1
+prod_001366,image->text,1,1,1
+prod_001234,image->text,1,1,1
+prod_000076,image->text,1,1,1
+prod_001916,image->text,1,1,1
+prod_001414,image->text,0,1,1
+prod_001283,image->text,1,1,1
+prod_001979,image->text,0,0,1
+prod_000441,image->text,1,1,1
+prod_000518,image->text,0,0,0
+prod_000814,image->text,1,1,1
+prod_000030,image->text,1,1,1
+prod_001091,image->text,1,1,1
+prod_001513,image->text,0,1,1
+prod_000782,image->text,1,1,1
+prod_001308,image->text,1,1,1
+prod_001230,image->text,0,1,1
+prod_001474,image->text,0,1,1
+prod_001592,image->text,1,1,1
+prod_001567,image->text,1,1,1
+prod_000356,image->text,0,0,1
+prod_001573,image->text,1,1,1
+prod_000044,image->text,0,0,1
+prod_001485,image->text,1,1,1
+prod_000169,image->text,0,1,1
+prod_000306,image->text,1,1,1
+prod_001488,image->text,1,1,1
+prod_001281,image->text,0,1,1
+prod_001924,image->text,1,1,1
+prod_000603,image->text,1,1,1
+prod_001319,image->text,1,1,1
+prod_001100,image->text,0,1,1
+prod_000987,image->text,0,1,1
+prod_001311,image->text,1,1,1
+prod_001442,image->text,1,1,1
+prod_001246,image->text,1,1,1
+prod_001415,image->text,0,0,0
+prod_001074,image->text,1,1,1
+prod_000738,image->text,0,1,1
+prod_000186,image->text,1,1,1
+prod_000846,image->text,0,1,1
+prod_000910,image->text,0,1,1
+prod_001205,image->text,1,1,1
+prod_000878,image->text,0,1,1
+prod_000354,image->text,1,1,1
+prod_000706,image->text,1,1,1
+prod_000539,image->text,1,1,1
+prod_001730,image->text,0,1,1
+prod_001622,image->text,0,0,0
+prod_001932,image->text,0,1,1
+prod_001365,image->text,1,1,1
+prod_000969,image->text,1,1,1
+prod_000176,image->text,0,0,0
+prod_001678,image->text,0,1,1
+prod_000803,image->text,1,1,1
+prod_001610,image->text,0,1,1
+prod_000123,image->text,0,0,1
+prod_000614,image->text,0,1,1
+prod_001220,image->text,1,1,1
+prod_000559,image->text,0,0,0
+prod_001011,image->text,0,1,1
+prod_001323,image->text,1,1,1
+prod_000946,image->text,1,1,1
+prod_000334,image->text,0,0,1
+prod_001327,image->text,1,1,1
+prod_000195,image->text,1,1,1
+prod_000523,image->text,0,1,1
+prod_000792,image->text,1,1,1
+prod_001713,image->text,1,1,1
+prod_000325,image->text,1,1,1
+prod_001198,image->text,0,1,1
+prod_000268,image->text,1,1,1
+prod_001459,image->text,1,1,1
+prod_001430,image->text,1,1,1
+prod_000067,image->text,1,1,1
+prod_000942,image->text,1,1,1
+prod_000534,image->text,1,1,1
+prod_001141,image->text,0,0,0
+prod_000497,image->text,0,1,1
+prod_001755,image->text,1,1,1
+prod_001411,image->text,1,1,1
+prod_000922,image->text,0,0,0
+prod_001943,image->text,0,1,1
+prod_001767,image->text,0,1,1
+prod_001003,image->text,1,1,1
+prod_001634,image->text,1,1,1
+prod_001553,image->text,1,1,1
+prod_000467,image->text,0,1,1
+prod_001660,image->text,0,1,1
+prod_000397,image->text,1,1,1
+prod_000935,image->text,1,1,1
+prod_001748,image->text,1,1,1
+prod_001579,image->text,0,0,1
+prod_001658,image->text,0,0,0
+prod_001505,image->text,1,1,1
+prod_000726,image->text,1,1,1
+prod_000531,image->text,0,0,0
+prod_001168,image->text,1,1,1
+prod_001370,image->text,1,1,1
+prod_000957,image->text,1,1,1
+prod_000263,image->text,0,0,0
+prod_000850,image->text,1,1,1
+prod_001615,image->text,1,1,1
+prod_000242,image->text,1,1,1
+prod_001834,image->text,0,0,1
+prod_001201,image->text,1,1,1
+prod_000481,image->text,1,1,1
+prod_001280,image->text,0,0,0
+prod_001818,image->text,0,0,0
+prod_000368,image->text,1,1,1
+prod_001013,image->text,1,1,1
+prod_001241,image->text,1,1,1
+prod_001564,image->text,1,1,1
+prod_000732,image->text,0,1,1
+prod_000757,image->text,1,1,1
+prod_000576,image->text,0,0,1
+prod_000071,image->text,1,1,1
+prod_001646,image->text,0,0,1
+prod_000261,image->text,1,1,1
+prod_000051,image->text,0,1,1
+prod_000199,image->text,0,1,1
+prod_000552,image->text,1,1,1
+prod_000839,image->text,1,1,1
+prod_000335,image->text,0,0,0
+prod_001697,image->text,1,1,1
+prod_000589,image->text,1,1,1
+prod_000430,image->text,1,1,1
+prod_000465,image->text,1,1,1
+prod_000944,image->text,1,1,1
+prod_000892,image->text,1,1,1
+prod_001232,image->text,0,1,1
+prod_000697,image->text,1,1,1
+prod_001240,image->text,1,1,1
+prod_001153,image->text,1,1,1
+prod_000586,image->text,1,1,1
+prod_001256,image->text,0,1,1
+prod_001976,image->text,1,1,1
+prod_001109,image->text,0,0,0
+prod_000720,image->text,1,1,1
+prod_000401,image->text,0,0,1
+prod_000565,image->text,0,0,0
+prod_000193,image->text,1,1,1
+prod_001436,image->text,0,1,1
+prod_001019,image->text,1,1,1
+prod_001679,image->text,1,1,1
+prod_000617,image->text,1,1,1
+prod_001787,image->text,1,1,1
+prod_001484,image->text,0,1,1
+prod_001512,image->text,0,1,1
+prod_000142,image->text,1,1,1
+prod_001125,image->text,0,0,1
+prod_000002,image->text,0,0,1
+prod_001812,image->text,1,1,1
+prod_001870,image->text,0,1,1
+prod_001158,image->text,0,0,0
+prod_000342,image->text,1,1,1
+prod_001589,image->text,0,0,0
+prod_000489,image->text,1,1,1
+prod_001800,image->text,1,1,1
+prod_000267,image->text,0,1,1
+prod_000379,image->text,1,1,1
+prod_000685,image->text,1,1,1
+prod_000699,image->text,1,1,1
+prod_000442,image->text,1,1,1
+prod_000273,image->text,0,1,1
+prod_000185,image->text,1,1,1
+prod_000930,image->text,0,1,1
+prod_000246,image->text,0,1,1
+prod_000542,image->text,0,1,1
+prod_001669,image->text,0,1,1
+prod_000592,image->text,0,1,1
+prod_000812,image->text,0,1,1
+prod_001875,image->text,1,1,1
+prod_001111,image->text,1,1,1
+prod_001852,image->text,1,1,1
+prod_001314,image->text,0,1,1
+prod_000418,image->text,1,1,1
+prod_000275,image->text,1,1,1
+prod_000727,image->text,1,1,1
+prod_001486,image->text,0,1,1
+prod_001455,image->text,1,1,1
+prod_000252,image->text,0,0,0
+prod_000416,image->text,1,1,1
+prod_001186,image->text,1,1,1
+prod_001935,image->text,0,1,1
+prod_001028,image->text,0,0,1
+prod_000313,image->text,1,1,1
+prod_001745,image->text,1,1,1
+prod_000384,image->text,1,1,1
+prod_001271,image->text,0,1,1
+prod_000428,image->text,0,1,1
+prod_000735,image->text,0,1,1
+prod_000748,image->text,0,0,0
+prod_000761,image->text,0,1,1
+prod_001556,image->text,0,1,1
+prod_000411,image->text,0,1,1
+prod_001629,image->text,1,1,1
+prod_001950,image->text,1,1,1
+prod_000623,image->text,1,1,1
+prod_000927,image->text,0,0,0
+prod_001922,image->text,1,1,1
+prod_000558,image->text,0,1,1
+prod_001207,image->text,0,0,1
+prod_001891,image->text,1,1,1
+prod_000183,image->text,0,0,1
+prod_001330,image->text,1,1,1
+prod_000715,image->text,1,1,1
+prod_000171,image->text,0,1,1
+prod_000295,image->text,0,1,1
+prod_000214,text->image,1,1,1
+prod_001528,text->image,1,1,1
+prod_000790,text->image,1,1,1
+prod_001184,text->image,0,1,1
+prod_001772,text->image,1,1,1
+prod_000488,text->image,1,1,1
+prod_000936,text->image,0,1,1
+prod_001598,text->image,0,1,1
+prod_001296,text->image,1,1,1
+prod_001119,text->image,1,1,1
+prod_001290,text->image,1,1,1
+prod_000309,text->image,1,1,1
+prod_001390,text->image,1,1,1
+prod_001987,text->image,1,1,1
+prod_000848,text->image,1,1,1
+prod_001536,text->image,1,1,1
+prod_001724,text->image,0,1,1
+prod_000879,text->image,0,1,1
+prod_000370,text->image,0,0,1
+prod_000056,text->image,0,1,1
+prod_000981,text->image,0,0,0
+prod_001270,text->image,0,1,1
+prod_000548,text->image,1,1,1
+prod_001618,text->image,1,1,1
+prod_001791,text->image,0,1,1
+prod_000926,text->image,1,1,1
+prod_001282,text->image,0,0,0
+prod_000829,text->image,1,1,1
+prod_000675,text->image,0,1,1
+prod_000070,text->image,0,0,0
+prod_000574,text->image,0,1,1
+prod_000065,text->image,1,1,1
+prod_001385,text->image,0,1,1
+prod_000919,text->image,1,1,1
+prod_001251,text->image,1,1,1
+prod_000111,text->image,1,1,1
+prod_001139,text->image,1,1,1
+prod_001243,text->image,1,1,1
+prod_000760,text->image,0,1,1
+prod_001862,text->image,1,1,1
+prod_001562,text->image,0,1,1
+prod_000439,text->image,0,0,0
+prod_000124,text->image,0,1,1
+prod_001937,text->image,1,1,1
+prod_000785,text->image,1,1,1
+prod_001293,text->image,0,0,0
+prod_001244,text->image,0,0,0
+prod_000580,text->image,0,1,1
+prod_000385,text->image,0,1,1
+prod_000751,text->image,1,1,1
+prod_001446,text->image,0,1,1
+prod_000511,text->image,1,1,1
+prod_000029,text->image,1,1,1
+prod_000128,text->image,1,1,1
+prod_001593,text->image,0,0,0
+prod_000971,text->image,0,1,1
+prod_001871,text->image,1,1,1
+prod_000824,text->image,0,0,0
+prod_000429,text->image,0,0,0
+prod_000239,text->image,1,1,1
+prod_001820,text->image,1,1,1
+prod_001395,text->image,0,0,1
+prod_000822,text->image,1,1,1
+prod_000955,text->image,1,1,1
+prod_001338,text->image,0,0,0
+prod_000364,text->image,0,1,1
+prod_000417,text->image,0,1,1
+prod_000369,text->image,1,1,1
+prod_001628,text->image,1,1,1
+prod_001444,text->image,1,1,1
+prod_000983,text->image,1,1,1
+prod_000069,text->image,1,1,1
+prod_000941,text->image,0,1,1
+prod_001570,text->image,0,1,1
+prod_001248,text->image,1,1,1
+prod_001397,text->image,1,1,1
+prod_000841,text->image,0,0,0
+prod_000483,text->image,0,0,0
+prod_001315,text->image,0,0,0
+prod_000683,text->image,1,1,1
+prod_000750,text->image,0,1,1
+prod_001594,text->image,1,1,1
+prod_000536,text->image,0,0,0
+prod_000594,text->image,0,1,1
+prod_001348,text->image,1,1,1
+prod_000886,text->image,0,1,1
+prod_001145,text->image,1,1,1
+prod_000099,text->image,0,1,1
+prod_001919,text->image,1,1,1
+prod_000256,text->image,1,1,1
+prod_000292,text->image,1,1,1
+prod_001691,text->image,0,0,0
+prod_001673,text->image,1,1,1
+prod_001648,text->image,0,1,1
+prod_001939,text->image,0,0,0
+prod_000357,text->image,0,1,1
+prod_001743,text->image,1,1,1
+prod_000656,text->image,1,1,1
+prod_000327,text->image,0,0,0
+prod_001033,text->image,0,1,1
+prod_001738,text->image,0,1,1
+prod_001635,text->image,0,0,0
+prod_000597,text->image,1,1,1
+prod_001821,text->image,0,1,1
+prod_001128,text->image,0,0,1
+prod_000717,text->image,0,0,1
+prod_001799,text->image,1,1,1
+prod_000968,text->image,0,0,0
+prod_000823,text->image,1,1,1
+prod_001920,text->image,1,1,1
+prod_000984,text->image,1,1,1
+prod_001927,text->image,1,1,1
+prod_001664,text->image,1,1,1
+prod_000436,text->image,1,1,1
+prod_000945,text->image,1,1,1
+prod_001435,text->image,1,1,1
+prod_001089,text->image,0,0,1
+prod_001046,text->image,0,0,0
+prod_000425,text->image,0,1,1
+prod_000456,text->image,1,1,1
+prod_001823,text->image,1,1,1
+prod_001432,text->image,1,1,1
+prod_000547,text->image,1,1,1
+prod_001829,text->image,1,1,1
+prod_000797,text->image,1,1,1
+prod_000624,text->image,1,1,1
+prod_000213,text->image,1,1,1
+prod_001501,text->image,0,1,1
+prod_000482,text->image,1,1,1
+prod_000345,text->image,1,1,1
+prod_001412,text->image,0,0,1
+prod_001443,text->image,0,0,0
+prod_000308,text->image,1,1,1
+prod_000423,text->image,1,1,1
+prod_001514,text->image,1,1,1
+prod_001666,text->image,0,1,1
+prod_000905,text->image,1,1,1
+prod_001782,text->image,0,0,1
+prod_001093,text->image,0,1,1
+prod_001225,text->image,1,1,1
+prod_001258,text->image,0,0,0
+prod_000233,text->image,1,1,1
+prod_000120,text->image,1,1,1
+prod_001349,text->image,1,1,1
+prod_000928,text->image,0,1,1
+prod_000679,text->image,0,0,1
+prod_001333,text->image,1,1,1
+prod_000135,text->image,0,1,1
+prod_000953,text->image,1,1,1
+prod_000396,text->image,1,1,1
+prod_000432,text->image,1,1,1
+prod_000419,text->image,1,1,1
+prod_000235,text->image,1,1,1
+prod_001291,text->image,0,1,1
+prod_000109,text->image,1,1,1
+prod_000300,text->image,0,1,1
+prod_000486,text->image,1,1,1
+prod_000212,text->image,0,0,1
+prod_001731,text->image,0,0,1
+prod_000772,text->image,0,1,1
+prod_001558,text->image,0,1,1
+prod_001384,text->image,1,1,1
+prod_000709,text->image,1,1,1
+prod_001753,text->image,1,1,1
+prod_000277,text->image,0,0,0
+prod_000769,text->image,0,1,1
+prod_001847,text->image,1,1,1
+prod_000860,text->image,1,1,1
+prod_000355,text->image,0,1,1
+prod_000253,text->image,1,1,1
+prod_001554,text->image,0,1,1
+prod_001640,text->image,1,1,1
+prod_001778,text->image,1,1,1
+prod_001795,text->image,1,1,1
+prod_000909,text->image,0,0,0
+prod_000787,text->image,1,1,1
+prod_000498,text->image,0,0,0
+prod_001990,text->image,0,1,1
+prod_000272,text->image,0,1,1
+prod_000414,text->image,1,1,1
+prod_000817,text->image,1,1,1
+prod_001272,text->image,0,1,1
+prod_000533,text->image,1,1,1
+prod_000049,text->image,0,1,1
+prod_000595,text->image,0,0,1
+prod_000249,text->image,0,0,1
+prod_000258,text->image,0,0,1
+prod_001555,text->image,1,1,1
+prod_000947,text->image,0,1,1
+prod_001108,text->image,0,0,0
+prod_000377,text->image,1,1,1
+prod_000319,text->image,1,1,1
+prod_000641,text->image,1,1,1
+prod_001537,text->image,1,1,1
+prod_001164,text->image,0,1,1
+prod_001121,text->image,1,1,1
+prod_001190,text->image,1,1,1
+prod_001278,text->image,0,0,0
+prod_000023,text->image,1,1,1
+prod_000353,text->image,1,1,1
+prod_000063,text->image,1,1,1
+prod_001117,text->image,1,1,1
+prod_000189,text->image,0,1,1
+prod_000698,text->image,0,0,0
+prod_000241,text->image,0,1,1
+prod_001995,text->image,0,0,0
+prod_001811,text->image,0,0,0
+prod_001566,text->image,1,1,1
+prod_000779,text->image,1,1,1
+prod_001607,text->image,1,1,1
+prod_000197,text->image,0,1,1
+prod_001687,text->image,0,1,1
+prod_001004,text->image,0,0,0
+prod_001005,text->image,0,1,1
+prod_001814,text->image,0,1,1
+prod_001831,text->image,0,0,0
+prod_000100,text->image,1,1,1
+prod_001884,text->image,1,1,1
+prod_001934,text->image,1,1,1
+prod_001938,text->image,0,1,1
+prod_000222,text->image,1,1,1
+prod_000920,text->image,1,1,1
+prod_001127,text->image,1,1,1
+prod_001612,text->image,0,1,1
+prod_000622,text->image,0,1,1
+prod_000571,text->image,1,1,1
+prod_000764,text->image,0,0,0
+prod_000818,text->image,1,1,1
+prod_000912,text->image,1,1,1
+prod_001345,text->image,1,1,1
+prod_000908,text->image,1,1,1
+prod_000453,text->image,1,1,1
+prod_001064,text->image,0,1,1
+prod_001844,text->image,1,1,1
+prod_000115,text->image,1,1,1
+prod_000618,text->image,0,0,0
+prod_001209,text->image,1,1,1
+prod_000474,text->image,0,1,1
+prod_001636,text->image,1,1,1
+prod_001313,text->image,1,1,1
+prod_000301,text->image,1,1,1
+prod_000283,text->image,1,1,1
+prod_001171,text->image,0,1,1
+prod_000386,text->image,0,1,1
+prod_000634,text->image,1,1,1
+prod_000588,text->image,1,1,1
+prod_001360,text->image,0,1,1
+prod_000655,text->image,1,1,1
+prod_000174,text->image,0,1,1
+prod_001991,text->image,1,1,1
+prod_001705,text->image,1,1,1
+prod_001274,text->image,1,1,1
+prod_001264,text->image,1,1,1
+prod_001326,text->image,0,0,0
+prod_001676,text->image,0,1,1
+prod_000632,text->image,0,1,1
+prod_000078,text->image,0,1,1
+prod_001992,text->image,0,0,0
+prod_000032,text->image,1,1,1
+prod_000867,text->image,1,1,1
+prod_000310,text->image,1,1,1
+prod_000712,text->image,0,0,0
+prod_000347,text->image,1,1,1
+prod_000164,text->image,1,1,1
+prod_000205,text->image,1,1,1
+prod_000710,text->image,1,1,1
+prod_001367,text->image,0,1,1
+prod_000538,text->image,0,0,0
+prod_000371,text->image,1,1,1
+prod_001965,text->image,1,1,1
+prod_000435,text->image,1,1,1
+prod_001710,text->image,0,0,0
+prod_001945,text->image,1,1,1
+prod_001783,text->image,0,1,1
+prod_000220,text->image,0,0,1
+prod_001930,text->image,0,1,1
+prod_000989,text->image,1,1,1
+prod_000606,text->image,1,1,1
+prod_001394,text->image,0,1,1
+prod_000059,text->image,0,0,0
+prod_001063,text->image,0,0,0
+prod_000530,text->image,0,1,1
+prod_000073,text->image,0,1,1
+prod_000163,text->image,0,1,1
+prod_001977,text->image,0,0,1
+prod_001135,text->image,1,1,1
+prod_001012,text->image,1,1,1
+prod_001417,text->image,0,0,0
+prod_000587,text->image,1,1,1
+prod_001652,text->image,1,1,1
+prod_000045,text->image,0,1,1
+prod_000949,text->image,0,1,1
+prod_001366,text->image,1,1,1
+prod_001234,text->image,1,1,1
+prod_000076,text->image,1,1,1
+prod_001916,text->image,1,1,1
+prod_001414,text->image,0,1,1
+prod_001283,text->image,1,1,1
+prod_001979,text->image,0,1,1
+prod_000441,text->image,1,1,1
+prod_000518,text->image,0,1,1
+prod_000814,text->image,0,1,1
+prod_000030,text->image,1,1,1
+prod_001091,text->image,1,1,1
+prod_001513,text->image,0,1,1
+prod_000782,text->image,1,1,1
+prod_001308,text->image,0,0,1
+prod_001230,text->image,1,1,1
+prod_001474,text->image,1,1,1
+prod_001592,text->image,1,1,1
+prod_001567,text->image,1,1,1
+prod_000356,text->image,0,0,1
+prod_001573,text->image,1,1,1
+prod_000044,text->image,0,1,1
+prod_001485,text->image,1,1,1
+prod_000169,text->image,0,1,1
+prod_000306,text->image,1,1,1
+prod_001488,text->image,1,1,1
+prod_001281,text->image,1,1,1
+prod_001924,text->image,0,1,1
+prod_000603,text->image,1,1,1
+prod_001319,text->image,1,1,1
+prod_001100,text->image,0,1,1
+prod_000987,text->image,0,1,1
+prod_001311,text->image,0,1,1
+prod_001442,text->image,1,1,1
+prod_001246,text->image,1,1,1
+prod_001415,text->image,0,0,0
+prod_001074,text->image,0,1,1
+prod_000738,text->image,0,1,1
+prod_000186,text->image,1,1,1
+prod_000846,text->image,0,1,1
+prod_000910,text->image,1,1,1
+prod_001205,text->image,1,1,1
+prod_000878,text->image,1,1,1
+prod_000354,text->image,1,1,1
+prod_000706,text->image,1,1,1
+prod_000539,text->image,0,1,1
+prod_001730,text->image,0,1,1
+prod_001622,text->image,0,0,0
+prod_001932,text->image,1,1,1
+prod_001365,text->image,1,1,1
+prod_000969,text->image,1,1,1
+prod_000176,text->image,0,0,1
+prod_001678,text->image,0,0,1
+prod_000803,text->image,0,1,1
+prod_001610,text->image,0,1,1
+prod_000123,text->image,0,0,0
+prod_000614,text->image,0,0,0
+prod_001220,text->image,1,1,1
+prod_000559,text->image,0,0,0
+prod_001011,text->image,0,1,1
+prod_001323,text->image,0,1,1
+prod_000946,text->image,0,1,1
+prod_000334,text->image,0,0,0
+prod_001327,text->image,1,1,1
+prod_000195,text->image,0,1,1
+prod_000523,text->image,1,1,1
+prod_000792,text->image,1,1,1
+prod_001713,text->image,1,1,1
+prod_000325,text->image,1,1,1
+prod_001198,text->image,0,0,0
+prod_000268,text->image,1,1,1
+prod_001459,text->image,1,1,1
+prod_001430,text->image,1,1,1
+prod_000067,text->image,1,1,1
+prod_000942,text->image,1,1,1
+prod_000534,text->image,1,1,1
+prod_001141,text->image,0,0,0
+prod_000497,text->image,1,1,1
+prod_001755,text->image,1,1,1
+prod_001411,text->image,1,1,1
+prod_000922,text->image,0,0,0
+prod_001943,text->image,1,1,1
+prod_001767,text->image,0,0,0
+prod_001003,text->image,1,1,1
+prod_001634,text->image,1,1,1
+prod_001553,text->image,1,1,1
+prod_000467,text->image,1,1,1
+prod_001660,text->image,0,1,1
+prod_000397,text->image,1,1,1
+prod_000935,text->image,0,1,1
+prod_001748,text->image,1,1,1
+prod_001579,text->image,0,1,1
+prod_001658,text->image,0,0,0
+prod_001505,text->image,1,1,1
+prod_000726,text->image,1,1,1
+prod_000531,text->image,0,0,0
+prod_001168,text->image,1,1,1
+prod_001370,text->image,1,1,1
+prod_000957,text->image,1,1,1
+prod_000263,text->image,0,0,0
+prod_000850,text->image,0,1,1
+prod_001615,text->image,1,1,1
+prod_000242,text->image,0,1,1
+prod_001834,text->image,0,1,1
+prod_001201,text->image,0,1,1
+prod_000481,text->image,1,1,1
+prod_001280,text->image,0,0,0
+prod_001818,text->image,1,1,1
+prod_000368,text->image,1,1,1
+prod_001013,text->image,1,1,1
+prod_001241,text->image,1,1,1
+prod_001564,text->image,1,1,1
+prod_000732,text->image,0,0,1
+prod_000757,text->image,1,1,1
+prod_000576,text->image,1,1,1
+prod_000071,text->image,0,1,1
+prod_001646,text->image,1,1,1
+prod_000261,text->image,1,1,1
+prod_000051,text->image,0,0,1
+prod_000199,text->image,1,1,1
+prod_000552,text->image,0,1,1
+prod_000839,text->image,0,0,1
+prod_000335,text->image,1,1,1
+prod_001697,text->image,1,1,1
+prod_000589,text->image,1,1,1
+prod_000430,text->image,0,1,1
+prod_000465,text->image,0,1,1
+prod_000944,text->image,1,1,1
+prod_000892,text->image,1,1,1
+prod_001232,text->image,1,1,1
+prod_000697,text->image,0,0,0
+prod_001240,text->image,1,1,1
+prod_001153,text->image,1,1,1
+prod_000586,text->image,1,1,1
+prod_001256,text->image,1,1,1
+prod_001976,text->image,1,1,1
+prod_001109,text->image,0,0,0
+prod_000720,text->image,1,1,1
+prod_000401,text->image,0,0,1
+prod_000565,text->image,0,0,1
+prod_000193,text->image,1,1,1
+prod_001436,text->image,0,1,1
+prod_001019,text->image,1,1,1
+prod_001679,text->image,1,1,1
+prod_000617,text->image,1,1,1
+prod_001787,text->image,1,1,1
+prod_001484,text->image,1,1,1
+prod_001512,text->image,0,1,1
+prod_000142,text->image,0,0,1
+prod_001125,text->image,0,0,0
+prod_000002,text->image,0,1,1
+prod_001812,text->image,0,1,1
+prod_001870,text->image,1,1,1
+prod_001158,text->image,0,0,0
+prod_000342,text->image,0,1,1
+prod_001589,text->image,0,0,0
+prod_000489,text->image,1,1,1
+prod_001800,text->image,1,1,1
+prod_000267,text->image,1,1,1
+prod_000379,text->image,1,1,1
+prod_000685,text->image,1,1,1
+prod_000699,text->image,1,1,1
+prod_000442,text->image,1,1,1
+prod_000273,text->image,0,1,1
+prod_000185,text->image,0,0,1
+prod_000930,text->image,0,1,1
+prod_000246,text->image,0,1,1
+prod_000542,text->image,1,1,1
+prod_001669,text->image,1,1,1
+prod_000592,text->image,0,0,0
+prod_000812,text->image,0,1,1
+prod_001875,text->image,1,1,1
+prod_001111,text->image,1,1,1
+prod_001852,text->image,1,1,1
+prod_001314,text->image,0,1,1
+prod_000418,text->image,1,1,1
+prod_000275,text->image,1,1,1
+prod_000727,text->image,1,1,1
+prod_001486,text->image,0,1,1
+prod_001455,text->image,1,1,1
+prod_000252,text->image,0,0,0
+prod_000416,text->image,1,1,1
+prod_001186,text->image,1,1,1
+prod_001935,text->image,0,1,1
+prod_001028,text->image,0,0,0
+prod_000313,text->image,1,1,1
+prod_001745,text->image,0,1,1
+prod_000384,text->image,1,1,1
+prod_001271,text->image,1,1,1
+prod_000428,text->image,0,1,1
+prod_000735,text->image,0,0,0
+prod_000748,text->image,0,0,1
+prod_000761,text->image,0,1,1
+prod_001556,text->image,1,1,1
+prod_000411,text->image,1,1,1
+prod_001629,text->image,1,1,1
+prod_001950,text->image,1,1,1
+prod_000623,text->image,1,1,1
+prod_000927,text->image,0,0,0
+prod_001922,text->image,1,1,1
+prod_000558,text->image,0,1,1
+prod_001207,text->image,0,0,1
+prod_001891,text->image,1,1,1
+prod_000183,text->image,1,1,1
+prod_001330,text->image,1,1,1
+prod_000715,text->image,1,1,1
+prod_000171,text->image,0,1,1
+prod_000295,text->image,0,0,1
