@@ -4,6 +4,7 @@ torchvision>=0.15
 transformers>=4.36,<5      # MUST stay below 5.0 — transformers 5.x breaks CLIP's
                            # get_text_features / get_image_features (returns an
                            # object instead of a tensor). 4.x is required.
+sentence-transformers>=2.7 # cross-encoder reranker (ms-marco-MiniLM-L-6-v2)
 pillow>=10.0
 
 # Data
