@@ -1,13 +1,13 @@
 """
 app.py — IMPROVED VERSION
 ==========================
-改进点（相比 Matteo 原版）：
-1. 多轮对话记忆：历史对话传入 LLM，支持追问
-2. 对话历史侧边栏显示，一键清除
-3. Reranker 开关暴露在侧边栏
-4. UI 小改：显示"对话记忆"状态，追问示例
+Improvement：
+1. Past conversations are included in the memory of LLM
+2. Chat history displayed on the side bar
+3. Reranker 
+4. UI : include chat memory
 
-运行：
+To run：
     python -m streamlit run app/app.py
 """
 
@@ -278,7 +278,7 @@ with st.sidebar:
 
     show_retrieved = st.checkbox("Show retrieved products", value=True)
 
-    # 改进3：Reranker 开关
+    # Reranker T/F
     use_reranker = st.checkbox(
         "Use reranker",
         value=True,
@@ -289,7 +289,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown('<h2>Conversation Memory</h2>', unsafe_allow_html=True)
 
-    # 显示当前记忆了几轮
+    # show current memory badge
     n_turns = len(st.session_state.conversation)
     if n_turns > 0:
         st.markdown(
@@ -381,7 +381,7 @@ except Exception as e:
 
 
 # ---------------------------------------------------------------------------
-# Rendering helpers（与原版相同）
+# Rendering helpers
 # ---------------------------------------------------------------------------
 
 CONFIDENCE_LABELS = {
@@ -529,7 +529,7 @@ if user_text or uploaded:
         if confidence:
             render_confidence_badge(confidence, top_sim)
 
-        # 改进1：如果有对话历史在生效，显示紫色 memory badge
+        # If the past conversations are referenced and activated, it would show purple memory badge
         if st.session_state.conversation:
             st.markdown(
                 f'<div class="memory-badge"><span class="dot"></span>'
