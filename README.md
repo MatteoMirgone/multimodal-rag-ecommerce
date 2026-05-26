@@ -22,7 +22,6 @@ Two pipelines that meet at the vector database:
 4. Llama 3.1 generates a grounded response using retrieved product metadata and the confidence tag
 5. UI displays the answer with a colored confidence badge plus retrieved product cards (image-first, with cosine similarity pills)
 
-See `docs/REPORT.md` for the full research report.
 
 ## Project structure
 
