@@ -1,13 +1,13 @@
 """
 rag_chain.py — IMPROVED VERSION
 ================================
-改进点（相比 Matteo 原版）：
-1. 多轮对话记忆：把历史对话传入 LLM，支持追问
-2. Dynamic few-shot：从实际检索结果动态生成示例，而非固定占位符
-3. Reranking：用交叉编码器对检索结果重新排序，过滤跑偏的结果
-4. 其余逻辑（CLIP 编码、混合检索、ChromaDB、置信度）保持不变
+Improvements：
+1. Multiple conversation memory: put the chat history into LLM to support further questions
+2. Dynamic few-shot：From live search results to display examples, instead of fixed
+3. Reranking：Use cross-encoder to rerank the search results, filter out the ones which are irrelevant
+4. The rest (CLIP, ChromaDB, faithfulness) remain unchanged.
 
-依赖（在原 requirements.txt 基础上加一行）：
+Dependency (add to original requirement.text) ：
     sentence-transformers>=2.7
 """
 
